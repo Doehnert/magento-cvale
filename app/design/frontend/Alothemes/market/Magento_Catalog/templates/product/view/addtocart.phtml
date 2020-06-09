@@ -1,0 +1,148 @@
+<?php
+/**
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+/** @var $block \Magento\Catalog\Block\Product\View */
+?>
+<?php
+$_product = $block->getProduct();
+$_wishlistSubmitParams = $this->helper('Magento\Wishlist\Helper\Data')->getAddParams($_product);
+$compareHelper = $this->helper('Magento\Catalog\Helper\Product\Compare');
+?>
+<?php $_product = $block->getProduct(); ?>
+<?php $buttonTitle = __('Add to Cart'); ?>
+<?php if ($_product->isSaleable()): ?>
+<div class="box-tocart">
+    <div class="fieldset">
+        <?php if ($block->shouldRenderQuantity()): ?>
+        <div class="field qty">
+		    <div class="product-qty">
+				<label class="label" for="qty"><span><?php /* @escapeNotVerified */ echo __('Qty') ?></span></label>
+				<div class="control custom-qty">
+					<input type="number"
+						   name="qty"
+						   id="qty"
+						   maxlength="12"
+						   value="<?php /* @escapeNotVerified */ echo $block->getProductDefaultQty() * 1 ?>"
+						   title="<?php /* @escapeNotVerified */ echo __('Qty') ?>" class="input-text qty"
+						   data-validate="<?php echo $block->escapeHtml(json_encode($block->getQuantityValidators())) ?>"
+						   />
+					 <div class="btn-plus">
+                     <button  type="button" class="increase items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty )) result.value++;return false;">
+						<i class="fa fa-caret-up"></i>
+					</button>	
+                     <button  type="button" class="reduced items" onclick="var result = document.getElementById('qty'); var qty = result.value; if( !isNaN( qty ) && qty > 1 ) result.value--;return false;">
+                        <i class="fa fa-caret-down"></i>
+                    </button>	 
+                    </div>  
+				</div>
+			</div>
+        </div>
+        <?php endif; ?>
+        <div class="actions add-to-cart">
+            <button type="submit"
+                    title="<?php /* @escapeNotVerified */ echo $buttonTitle ?>"
+                    class="action primary tocart button btn-cart"
+                    id="product-addtocart-button">
+                <span><?php /* @escapeNotVerified */ echo $buttonTitle ?></span>
+            </button>
+            <?php echo $block->getChildHtml('', true) ?>
+			<div class="product-social-links">
+				<div class="product-addto-links add-to-links" data-role="add-to-links">
+					<?php if ($this->helper('Magento\Wishlist\Helper\Data')->isAllow()) : ?>
+						<a href="#"
+							class="action towishlist"
+							data-post='<?php /* @escapeNotVerified */ echo $_wishlistSubmitParams; ?>'
+							data-action="add-to-wishlist"><i class="fa fa-heart-o icon"></i><span><?php /* @escapeNotVerified */ echo __('Add to Wish List') ?></span></a>
+					<?php endif; ?>
+					<a href="#" data-post='<?php /* @escapeNotVerified */ echo $compareHelper->getPostDataParams($_product);?>'
+						data-role="add-to-links"
+						class="action tocompare"><i class="fa fa-bar-chart icon"></i><span><?php /* @escapeNotVerified */ echo __('Add to Compare') ?></span></a>
+				</div>
+			</div>
+        </div>
+    </div>
+</div>
+<div class="addit">
+     <div class="alo-social-links clearfix">
+        <div class="so-facebook so-social-share">
+            <div id="fb-root"></div>
+            <div class="fb-like" data-href="<?php echo $_product->getProductUrl();?>" data-send="false" data-layout="button_count" data-width="20" data-show-faces="false"></div>
+        </div>
+        <div class="so-twitter so-social-share">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-dnt="true">Tweet</a>
+        </div>
+        <div class="so-plusone so-social-share">
+            <div class="g-plusone" data-size="medium"></div>
+            <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+        </div>
+        <div class="so-linkedin so-social-share">
+           <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+           <script type="IN/Share" data-counter="right"></script>
+       </div>
+    </div>
+</div>
+<?php endif; ?>
+<?php if ($block->isRedirectToCartEnabled()) : ?>
+<script type="text/x-magento-init">
+    {
+        "#product_addtocart_form": {
+            "Magento_Catalog/product/view/validation": {
+                "radioCheckboxClosest": ".nested"
+            }
+        }
+    }
+</script>
+<?php else : ?>
+<script>
+    require([
+        'jquery',
+        'mage/mage',
+        'Magento_Catalog/product/view/validation',
+        'Magento_Catalog/js/catalog-add-to-cart'
+    ], function ($) {
+        'use strict';
+
+        $('#product_addtocart_form').mage('validation', {
+            radioCheckboxClosest: '.nested',
+            submitHandler: function (form) {
+                var widget = $(form).catalogAddToCart({
+                    bindSubmit: false
+                });
+
+                widget.catalogAddToCart('submitForm', $(form));
+
+                return false;
+            }
+        });
+    });
+    (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s);
+                js.id = id;
+                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=115245961994281";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+            !function(d,s,id){
+                var js,fjs=d.getElementsByTagName(s)[0];
+                if(!d.getElementById(id)){
+                    js=d.createElement(s);
+                    js.id=id;
+                    js.src="//platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js,fjs);
+                }
+            }(document,"script","twitter-wjs");
+</script>
+<?php endif; ?>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "addToWishlist": <?php /* @escapeNotVerified */ echo $this->helper('Magento\Framework\Json\Helper\Data')->jsonEncode($block->getWishlistOptions())?>
+        }
+    }
+</script>

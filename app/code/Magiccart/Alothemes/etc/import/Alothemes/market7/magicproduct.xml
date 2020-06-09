@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <magicproduct>
+    <item>
+      <title><![CDATA[Deals Of The Day]]></title>
+      <identifier><![CDATA[deals-of-the-day]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"Bm7Tid5AK16VarU3";s:15:"magicproduct_id";s:1:"6";s:9:"countdown";s:17:"10/28/20 12:00 AM";s:5:"title";s:16:"Deals Of The Day";s:4:"ajax";s:1:"0";s:5:"types";a:1:{i:0;s:4:"sale";}s:9:"activated";s:4:"sale";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"2";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Camera Smartphone(Demo3)]]></title>
+      <identifier><![CDATA[camera-martphone-demo3]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"25";s:5:"title";s:24:"Camera Smartphone(Demo3)";s:4:"ajax";s:1:"1";s:5:"types";a:5:{i:0;s:10:"bestseller";i:1;s:6:"latest";i:2;s:3:"new";i:3;s:6:"random";i:4;s:4:"sale";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"16";s:6:"status";s:1:"1";s:11:"category_id";s:1:"9";s:12:"category_ids";a:8:{i:0;s:1:"3";i:1;s:1:"4";i:2;s:2:"63";i:3;s:1:"9";i:4;s:2:"13";i:5;s:2:"51";i:6;s:2:"53";i:7;s:2:"55";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Sport Furniture(Demo3)]]></title>
+      <identifier><![CDATA[sport-furniture-demo3]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"26";s:5:"title";s:22:"Sport Furniture(Demo3)";s:4:"ajax";s:1:"1";s:5:"types";a:4:{i:0;s:10:"bestseller";i:1;s:8:"featured";i:2;s:6:"latest";i:3;s:3:"new";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"16";s:6:"status";s:1:"1";s:11:"category_id";s:2:"54";s:12:"category_ids";a:9:{i:0;s:2:"14";i:1;s:1:"7";i:2;s:1:"8";i:3;s:1:"9";i:4;s:2:"12";i:5;s:2:"13";i:6;s:2:"15";i:7;s:2:"51";i:8;s:2:"55";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Television Monitor(Demo3)]]></title>
+      <identifier><![CDATA[television-monitor-demo3]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"27";s:5:"title";s:25:"Television Monitor(Demo3)";s:4:"ajax";s:1:"1";s:5:"types";a:4:{i:0;s:8:"featured";i:1;s:6:"latest";i:2;s:3:"new";i:3;s:6:"random";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"16";s:6:"status";s:1:"1";s:11:"category_id";s:2:"52";s:12:"category_ids";a:8:{i:0;s:1:"4";i:1;s:1:"9";i:2;s:2:"15";i:3;s:2:"51";i:4;s:2:"52";i:5;s:2:"53";i:6;s:2:"54";i:7;s:2:"55";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Featured Products]]></title>
+      <identifier><![CDATA[feature-products]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:17:"Featured Products";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:1:"9";i:1;s:2:"51";i:2;s:2:"54";i:3;s:2:"55";}s:9:"activated";s:1:"9";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"2";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[SmartPhone]]></title>
+      <identifier><![CDATA[smartphone]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:10:"SmartPhone";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:3:{i:0;s:1:"3";i:1;s:2:"51";i:2;s:2:"53";}s:9:"activated";s:2:"51";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Televisions Monitor]]></title>
+      <identifier><![CDATA[televisionsmonitor]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:19:"Televisions Monitor";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"20";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:1:"9";i:1;s:2:"52";i:2;s:2:"54";i:3;s:2:"55";}s:9:"activated";s:2:"52";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"5";s:7:"desktop";s:1:"6";s:7:"visible";s:1:"6";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Electrolux Furniture]]></title>
+      <identifier><![CDATA[electrolux-furniture]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:20:"Electrolux Furniture";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"12";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:2:"54";}s:9:"activated";s:2:"54";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"5";s:7:"desktop";s:1:"6";s:7:"visible";s:1:"6";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"6000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Smartphone Headphone]]></title>
+      <identifier><![CDATA[smartphone-headphone]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:20:"Smartphone Headphone";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"12";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:2:"51";}s:9:"activated";s:2:"51";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"5";s:7:"desktop";s:1:"6";s:7:"visible";s:1:"6";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"9000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Camera USB]]></title>
+      <identifier><![CDATA[camera-usb]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:10:"Camera USB";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"12";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:2:"53";}s:9:"activated";s:2:"53";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Watch Accessories]]></title>
+      <identifier><![CDATA[watch-accessories]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:17:"Watch Accessories";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"12";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:1:"9";}s:9:"activated";s:1:"9";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"5";s:7:"desktop";s:1:"6";s:7:"visible";s:1:"6";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"6000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Kitchens Furniture]]></title>
+      <identifier><![CDATA[kitchens-furniture]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:32:{s:9:"countdown";s:0:"";s:5:"title";s:18:"Kitchens Furniture";s:10:"identifier";s:18:"kitchens-furniture";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:1:"9";i:1;s:2:"51";i:2;s:2:"54";i:3;s:2:"55";}s:9:"activated";s:2:"54";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"6000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Hot Deals Products ]]></title>
+      <identifier><![CDATA[hot-deals-products]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"xrjKUlWjebRpGpfv";s:15:"magicproduct_id";s:2:"44";s:9:"countdown";s:17:"10/31/20 12:00 AM";s:5:"title";s:19:"Hot Deals Products ";s:4:"ajax";s:1:"0";s:5:"types";a:1:{i:0;s:8:"featured";}s:9:"activated";s:8:"featured";s:5:"limit";s:1:"5";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:2:"10";s:4:"cart";s:1:"1";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Electrolux Furniture (Demo4)]]></title>
+      <identifier><![CDATA[electrolux-furniture-demo4]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"45";s:5:"title";s:28:"Electrolux Furniture (Demo4)";s:4:"ajax";s:1:"1";s:5:"types";a:3:{i:0;s:8:"featured";i:1;s:6:"latest";i:2;s:6:"random";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"20";s:6:"status";s:1:"1";s:11:"category_id";s:2:"54";s:12:"category_ids";a:1:{i:0;s:2:"52";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"6000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Television Monitor(Demo4)]]></title>
+      <identifier><![CDATA[television-monitor-demo4]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"46";s:5:"title";s:25:"Television Monitor(Demo4)";s:4:"ajax";s:1:"1";s:5:"types";a:3:{i:0;s:8:"featured";i:1;s:6:"latest";i:2;s:6:"random";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"20";s:6:"status";s:1:"1";s:11:"category_id";s:2:"52";s:12:"category_ids";a:1:{i:0;s:2:"63";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"9000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Camera]]></title>
+      <identifier><![CDATA[camera-demo5]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"47";s:5:"title";s:6:"Camera";s:4:"ajax";s:1:"1";s:5:"types";a:3:{i:0;s:10:"bestseller";i:1;s:6:"latest";i:2;s:4:"sale";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:11:"category_id";s:2:"53";s:12:"category_ids";a:1:{i:0;s:1:"4";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[SmartPhone]]></title>
+      <identifier><![CDATA[smartphone-demo5]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"48";s:5:"title";s:10:"SmartPhone";s:4:"ajax";s:1:"1";s:5:"types";a:3:{i:0;s:10:"bestseller";i:1;s:6:"latest";i:2;s:4:"sale";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:11:"category_id";s:2:"51";s:12:"category_ids";a:1:{i:0;s:2:"53";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"6000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Sport]]></title>
+      <identifier><![CDATA[sport-demo5]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"49";s:5:"title";s:5:"Sport";s:4:"ajax";s:1:"1";s:5:"types";a:3:{i:0;s:10:"bestseller";i:1;s:8:"featured";i:2;s:6:"latest";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:11:"category_id";s:2:"55";s:12:"category_ids";a:1:{i:0;s:2:"63";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Furniture]]></title>
+      <identifier><![CDATA[furniture-demo5]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"50";s:5:"title";s:9:"Furniture";s:4:"ajax";s:1:"1";s:5:"types";a:2:{i:0;s:8:"featured";i:1;s:6:"latest";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:11:"category_id";s:2:"87";s:12:"category_ids";a:2:{i:0;s:2:"51";i:1;s:2:"52";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"6000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Best seller Demo2]]></title>
+      <identifier><![CDATA[best-seller-demo2]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:33:{s:8:"form_key";s:16:"wvtxivimGY50QqJh";s:15:"magicproduct_id";s:2:"51";s:9:"countdown";s:0:"";s:5:"title";s:17:"Best seller Demo2";s:10:"identifier";s:17:"best-seller-demo2";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:10:"bestseller";}s:9:"activated";s:10:"bestseller";s:5:"limit";s:2:"12";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:4:"true";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:5:"false";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Hot Deals Products demo6]]></title>
+      <identifier><![CDATA[hot-deals-products-demo6]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"SnuxXMBpwHxb7sYI";s:15:"magicproduct_id";s:2:"52";s:9:"countdown";s:0:"";s:5:"title";s:24:"Hot Deals Products demo6";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:4:"sale";}s:9:"activated";s:4:"sale";s:5:"limit";s:2:"12";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"1";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Featured Products]]></title>
+      <identifier><![CDATA[feature-products]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"McCfFtu4VSVpqQBW";s:15:"magicproduct_id";s:2:"53";s:9:"countdown";s:0:"";s:5:"title";s:17:"Featured Products";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:8:"featured";}s:9:"activated";s:8:"featured";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Hot Product (Home 1)]]></title>
+      <identifier><![CDATA[hot-products]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"G3Zy9zZ641uBmcqH";s:15:"magicproduct_id";s:2:"54";s:9:"countdown";s:0:"";s:5:"title";s:20:"Hot Product (Home 1)";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:8:"featured";}s:9:"activated";s:8:"featured";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"3";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:2:"15";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Deal of the days]]></title>
+      <identifier><![CDATA[deal-of-the-days]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:15:"9/10/20 3:38 AM";s:5:"title";s:16:"Deal of the days";s:4:"ajax";s:1:"1";s:5:"types";s:4:"sale";s:5:"limit";s:2:"20";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:1:"0";i:1;s:1:"4";i:2;s:2:"51";i:3;s:2:"53";}s:9:"activated";s:1:"0";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Top Selling Products]]></title>
+      <identifier><![CDATA[top_selling_products_demo1]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"56";s:5:"title";s:20:"Top Selling Products";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:10:"bestseller";}s:9:"activated";s:10:"bestseller";s:5:"limit";s:2:"14";s:6:"status";s:1:"1";s:11:"category_id";s:1:"0";s:12:"category_ids";a:3:{i:0;s:1:"4";i:1;s:1:"6";i:2;s:2:"53";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"3";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:2:"15";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Laptop & Computer]]></title>
+      <identifier><![CDATA[laptop_computer]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:32:{s:9:"countdown";s:0:"";s:5:"title";s:17:"Laptop & Computer";s:5:"image";s:45:"magiccart/magicproduct/category//1/f/1f_1.jpg";s:4:"ajax";s:1:"1";s:5:"types";s:1:"0";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:3:{i:0;s:1:"4";i:1;s:2:"58";i:2;s:2:"12";}s:9:"activated";s:1:"4";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Top Selling Products]]></title>
+      <identifier><![CDATA[top_selling_products]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:20:"Top Selling Products";s:4:"ajax";s:1:"1";s:5:"types";s:10:"bestseller";s:5:"limit";s:2:"20";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:2:"14";i:1;s:1:"6";i:2;s:2:"87";i:3;s:2:"63";}s:9:"activated";s:1:"6";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[tablet]]></title>
+      <identifier><![CDATA[tablet]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:33:{s:9:"countdown";s:0:"";s:5:"title";s:6:"tablet";s:10:"identifier";s:6:"tablet";s:4:"ajax";s:1:"1";s:5:"types";s:1:"0";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:1:"0";}s:9:"activated";s:1:"0";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"3";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:2:"15";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";s:5:"image";s:43:"magiccart/magicproduct/category//1/d/1d.jpg";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Hot New Arrivals]]></title>
+      <identifier><![CDATA[hot_new_arrivals]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:16:"Hot New Arrivals";s:4:"ajax";s:1:"1";s:5:"types";s:3:"new";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:1:"0";i:1;s:1:"4";i:2;s:2:"13";i:3;s:2:"51";}s:9:"activated";s:1:"0";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Produtos Aleatórios]]></title>
+      <identifier><![CDATA[random_products]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"8MWe3UqGpXeoGPVz";s:15:"magicproduct_id";s:2:"61";s:9:"countdown";s:0:"";s:5:"title";s:15:"Produtos Aleatórios";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:6:"random";}s:9:"activated";s:6:"random";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Best Rated Sellers]]></title>
+      <identifier><![CDATA[best_rated_sellers]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:18:"Best Rated Sellers";s:4:"ajax";s:1:"1";s:5:"types";s:10:"bestseller";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:1:"9";i:1;s:2:"51";i:2;s:2:"54";i:3;s:2:"55";}s:9:"activated";s:1:"9";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Laptop & Computer]]></title>
+      <identifier><![CDATA[laptop_computersh3]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:17:"Laptop & Computer";s:4:"ajax";s:1:"1";s:5:"types";s:1:"0";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:2:"12";}s:9:"activated";s:2:"12";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Deals Of The Day]]></title>
+      <identifier><![CDATA[deals-of-the-dayh3]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"Bm7Tid5AK16VarU3";s:15:"magicproduct_id";s:2:"64";s:9:"countdown";s:17:"10/28/20 12:00 AM";s:5:"title";s:16:"Deals Of The Day";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:4:"sale";}s:9:"activated";s:4:"sale";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Camera & Smart Audios]]></title>
+      <identifier><![CDATA[Camera_Smart_Audios]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:32:{s:9:"countdown";s:0:"";s:5:"title";s:21:"Camera & Smart Audios";s:5:"image";s:43:"magiccart/magicproduct/category//4/e/4e.jpg";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:11:{i:0;s:1:"4";i:1;s:1:"9";i:2;s:2:"10";i:3;s:2:"11";i:4;s:2:"12";i:5;s:2:"13";i:6;s:2:"15";i:7;s:2:"51";i:8;s:2:"52";i:9;s:2:"53";i:10;s:2:"54";}s:9:"activated";s:1:"4";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"3";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Laptop & Computer(Demo4)]]></title>
+      <identifier><![CDATA[laptop-computer-demo4]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:32:{s:15:"magicproduct_id";s:2:"66";s:5:"title";s:24:"Laptop & Computer(Demo4)";s:4:"ajax";s:1:"1";s:5:"types";a:4:{i:0;s:10:"bestseller";i:1;s:3:"new";i:2;s:6:"random";i:3;s:4:"sale";}s:9:"activated";s:10:"bestseller";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:11:"category_id";s:2:"12";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"3";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";s:13:"media_gallery";a:1:{s:6:"images";a:1:{s:18:"g87srk0l82f3u46oun";a:15:{s:8:"position";s:1:"1";s:10:"media_type";s:5:"image";s:14:"video_provider";s:0:"";s:4:"file";s:11:"/4/f/4f.jpg";s:8:"value_id";s:0:"";s:5:"label";s:0:"";s:4:"link";s:0:"";s:7:"caption";s:0:"";s:8:"disabled";s:1:"0";s:7:"removed";s:0:"";s:9:"video_url";s:0:"";s:11:"video_title";s:0:"";s:17:"video_description";s:0:"";s:14:"video_metadata";s:0:"";s:4:"role";s:0:"";}}}}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Televisions Monitor]]></title>
+      <identifier><![CDATA[televisions-monitor-demo4]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:19:"Televisions Monitor";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:2:"52";}s:9:"activated";s:2:"52";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"2";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Laptop & Computer(Demo5)]]></title>
+      <identifier><![CDATA[laptop-computer-demo5]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:31:{s:15:"magicproduct_id";s:2:"68";s:5:"title";s:24:"Laptop & Computer(Demo5)";s:4:"ajax";s:1:"1";s:5:"types";a:4:{i:0;s:10:"bestseller";i:1;s:8:"featured";i:2;s:6:"latest";i:3;s:4:"sale";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"20";s:6:"status";s:1:"1";s:11:"category_id";s:2:"12";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Audio & Accessories]]></title>
+      <identifier><![CDATA[audio-accessories]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:19:"Audio & Accessories";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:1:"9";}s:9:"activated";s:1:"9";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[SmartPhone & Accessories]]></title>
+      <identifier><![CDATA[smartphone_accessories_home6]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:32:{s:9:"countdown";s:0:"";s:5:"title";s:24:"SmartPhone & Accessories";s:5:"image";s:43:"magiccart/magicproduct/category//6/a/6a.jpg";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:2:"11";i:1;s:2:"12";i:2;s:2:"13";i:3;s:2:"51";}s:9:"activated";s:2:"12";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Featured Products]]></title>
+      <identifier><![CDATA[feature-products-demo6]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"97zy5UDt8vPaITrB";s:15:"magicproduct_id";s:2:"71";s:9:"countdown";s:0:"";s:5:"title";s:17:"Featured Products";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:8:"featured";}s:9:"activated";s:8:"featured";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Audios]]></title>
+      <identifier><![CDATA[audios-demo6]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:32:{s:9:"countdown";s:0:"";s:5:"title";s:6:"Audios";s:5:"image";s:43:"magiccart/magicproduct/category//6/e/6e.jpg";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:3:{i:0;s:1:"4";i:1;s:2:"51";i:2;s:2:"53";}s:9:"activated";s:2:"51";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"2";s:7:"visible";s:1:"2";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Television]]></title>
+      <identifier><![CDATA[Television-demo6]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:32:{s:9:"countdown";s:0:"";s:5:"title";s:10:"Television";s:5:"image";s:43:"magiccart/magicproduct/category//6/f/6f.jpg";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:3:{i:0;s:1:"4";i:1;s:2:"51";i:2;s:2:"53";}s:9:"activated";s:1:"4";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"2";s:7:"visible";s:1:"2";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Laptop & Computer]]></title>
+      <identifier><![CDATA[laptop-computer-demo6]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:32:{s:9:"countdown";s:0:"";s:5:"title";s:17:"Laptop & Computer";s:5:"image";s:43:"magiccart/magicproduct/category//6/i/6i.jpg";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:3:{i:0;s:2:"12";i:1;s:2:"51";i:2;s:2:"52";}s:9:"activated";s:2:"12";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Mais Vendidos]]></title>
+      <identifier><![CDATA[best-rated-sellers-demo6]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"MzylCKjIf3prgdAf";s:15:"magicproduct_id";s:2:"75";s:9:"countdown";s:0:"";s:5:"title";s:12:"Mais Vendidos";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:10:"bestseller";}s:9:"activated";s:10:"bestseller";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Produtos Aleatórios]]></title>
+      <identifier><![CDATA[random-products-demo6]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"97zy5UDt8vPaITrB";s:9:"countdown";s:0:"";s:5:"title";s:15:"Produtos Aleatórios";s:10:"identifier";s:21:"random-products-demo6";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:6:"random";}s:9:"activated";s:6:"random";s:5:"limit";s:1:"3";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"0";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Onsale Products]]></title>
+      <identifier><![CDATA[onsale-products-demo6]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"97zy5UDt8vPaITrB";s:9:"countdown";s:0:"";s:5:"title";s:15:"Onsale Products";s:10:"identifier";s:21:"onsale-products-demo6";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:4:"sale";}s:9:"activated";s:4:"sale";s:5:"limit";s:1:"3";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"0";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Latest Products]]></title>
+      <identifier><![CDATA[latest-products-demo6]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"97zy5UDt8vPaITrB";s:9:"countdown";s:0:"";s:5:"title";s:15:"Latest Products";s:10:"identifier";s:21:"latest-products-demo6";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:6:"latest";}s:9:"activated";s:6:"latest";s:5:"limit";s:1:"3";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"0";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Featured Products]]></title>
+      <identifier><![CDATA[featured-products-demo8]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"QBiCCQgTOuRwXpL4";s:15:"magicproduct_id";s:2:"79";s:9:"countdown";s:0:"";s:5:"title";s:17:"Featured Products";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:8:"featured";}s:9:"activated";s:8:"featured";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"2";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Bestseller Products]]></title>
+      <identifier><![CDATA[bestseller-products-demo8]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"5ut2Y8VR56CAp27H";s:15:"magicproduct_id";s:2:"80";s:9:"countdown";s:0:"";s:5:"title";s:19:"Bestseller Products";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:10:"bestseller";}s:9:"activated";s:10:"bestseller";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Onsale Products]]></title>
+      <identifier><![CDATA[onsale-products-demo8]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"rpgpPPNz05OIHD5K";s:9:"countdown";s:0:"";s:5:"title";s:15:"Onsale Products";s:10:"identifier";s:21:"onsale-products-demo8";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:4:"sale";}s:9:"activated";s:4:"sale";s:5:"limit";s:1:"4";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"0";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:4:"true";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Audio & Headphone]]></title>
+      <identifier><![CDATA[audio-headphone-demo8]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:17:"Audio & Headphone";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:1:"4";i:1;s:2:"15";i:2;s:2:"51";i:3;s:2:"53";}s:9:"activated";s:1:"4";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"2";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Video Game & Camera]]></title>
+      <identifier><![CDATA[video-game-camera-demo8]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:19:"Video Game & Camera";s:4:"ajax";s:1:"1";s:5:"types";s:1:"0";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:2:"53";}s:9:"activated";s:2:"53";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"2";s:6:"laptop";s:1:"2";s:7:"desktop";s:1:"2";s:7:"visible";s:1:"2";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Hot Deals Products]]></title>
+      <identifier><![CDATA[hot-deals-products-demo8]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"5ut2Y8VR56CAp27H";s:15:"magicproduct_id";s:2:"84";s:9:"countdown";s:16:"12/13/19 5:24 PM";s:5:"title";s:18:"Hot Deals Products";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:4:"sale";}s:9:"activated";s:4:"sale";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"2";s:7:"desktop";s:1:"2";s:7:"visible";s:1:"2";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Featured Products]]></title>
+      <identifier><![CDATA[featured-products-demo9]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"5ut2Y8VR56CAp27H";s:15:"magicproduct_id";s:2:"85";s:9:"countdown";s:0:"";s:5:"title";s:17:"Featured Products";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:8:"featured";}s:9:"activated";s:8:"featured";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Produtos Aleatórios]]></title>
+      <identifier><![CDATA[random-products-demo9]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"5ut2Y8VR56CAp27H";s:15:"magicproduct_id";s:2:"86";s:9:"countdown";s:0:"";s:5:"title";s:15:"Produtos Aleatórios";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:6:"random";}s:9:"activated";s:6:"random";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"6";s:7:"visible";s:1:"6";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Bestseller Products]]></title>
+      <identifier><![CDATA[bestseller-products-demo9]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:19:"Bestseller Products";s:4:"ajax";s:1:"1";s:5:"types";s:10:"bestseller";s:5:"limit";s:2:"14";s:6:"status";s:1:"1";s:12:"category_ids";a:5:{i:0;s:1:"4";i:1;s:2:"12";i:2;s:2:"51";i:3;s:2:"52";i:4;s:2:"53";}s:9:"activated";s:2:"12";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"6";s:7:"visible";s:1:"6";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Camera & Audios]]></title>
+      <identifier><![CDATA[camera-audios-demo9]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:15:"Camera & Audios";s:4:"ajax";s:1:"1";s:5:"types";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:2:"53";}s:9:"activated";s:2:"53";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Smartphone & Tablets]]></title>
+      <identifier><![CDATA[smartphone-tablets-demo9]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:20:"Smartphone & Tablets";s:4:"ajax";s:1:"1";s:5:"types";s:1:"0";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:12:"category_ids";a:1:{i:0;s:2:"51";}s:9:"activated";s:2:"51";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"2";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"3";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Best Sale(Left)]]></title>
+      <identifier><![CDATA[best-sale]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"82vcjtuOiKCswrak";s:15:"magicproduct_id";s:2:"90";s:9:"countdown";s:0:"";s:5:"title";s:15:"Best Sale(Left)";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:10:"bestseller";}s:9:"activated";s:10:"bestseller";s:5:"limit";s:1:"3";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"1";s:6:"tablet";s:1:"1";s:8:"notebook";s:1:"1";s:6:"laptop";s:1:"1";s:7:"desktop";s:1:"1";s:7:"visible";s:1:"1";s:5:"timer";s:1:"0";s:5:"slide";s:1:"0";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:5:"false";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"0";s:7:"compare";s:1:"0";s:8:"wishlist";s:1:"0";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Mais Vendidos]]></title>
+      <identifier><![CDATA[best-seller-demo8]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"5ut2Y8VR56CAp27H";s:15:"magicproduct_id";s:2:"91";s:9:"countdown";s:0:"";s:5:"title";s:11:"Mais Vendidos";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:10:"bestseller";}s:9:"activated";s:10:"bestseller";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"3";s:8:"notebook";s:1:"4";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"5";s:7:"visible";s:1:"5";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"1";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Deals Of The Day]]></title>
+      <identifier><![CDATA[deals-of-the-day-demo9]]></identifier>
+      <type_id><![CDATA[1]]></type_id>
+      <config><![CDATA[a:32:{s:8:"form_key";s:16:"5ut2Y8VR56CAp27H";s:15:"magicproduct_id";s:2:"92";s:9:"countdown";s:16:"12/17/19 2:57 PM";s:5:"title";s:16:"Deals Of The Day";s:4:"ajax";s:1:"1";s:5:"types";a:1:{i:0;s:4:"sale";}s:9:"activated";s:4:"sale";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"3";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Television Monitor(Demo7)]]></title>
+      <identifier><![CDATA[television-monitor-demo7]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:33:{s:15:"magicproduct_id";s:2:"93";s:5:"title";s:25:"Television Monitor(Demo7)";s:4:"ajax";s:1:"1";s:5:"types";a:4:{i:0;s:10:"bestseller";i:1;s:6:"latest";i:2;s:3:"new";i:3;s:4:"sale";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:11:"category_id";s:2:"52";s:12:"category_ids";a:6:{i:0;s:1:"4";i:1;s:2:"12";i:2;s:2:"51";i:3;s:2:"52";i:4;s:2:"53";i:5;s:2:"54";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"3";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";s:13:"media_gallery";a:1:{s:6:"images";a:1:{s:18:"togb3ge8iqp2qcl2nf";a:15:{s:8:"position";s:1:"2";s:10:"media_type";s:5:"image";s:14:"video_provider";s:0:"";s:4:"file";s:13:"/7/f/7f_1.jpg";s:8:"value_id";s:0:"";s:5:"label";s:0:"";s:4:"link";s:0:"";s:7:"caption";s:0:"";s:8:"disabled";s:1:"0";s:7:"removed";s:0:"";s:9:"video_url";s:0:"";s:11:"video_title";s:0:"";s:17:"video_description";s:0:"";s:14:"video_metadata";s:0:"";s:4:"role";s:0:"";}}}}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Deal of the days]]></title>
+      <identifier><![CDATA[deal-of-the-days-demo7]]></identifier>
+      <type_id><![CDATA[2]]></type_id>
+      <config><![CDATA[a:31:{s:9:"countdown";s:0:"";s:5:"title";s:16:"Deal of the days";s:4:"ajax";s:1:"1";s:5:"types";s:4:"sale";s:5:"limit";s:2:"20";s:6:"status";s:1:"1";s:12:"category_ids";a:4:{i:0;s:1:"0";i:1;s:2:"51";i:2;s:2:"53";i:3;s:2:"54";}s:9:"activated";s:1:"0";s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"1";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"4";s:7:"desktop";s:1:"4";s:7:"visible";s:1:"4";s:5:"timer";s:1:"1";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"1";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Laptop & Computer(Demo7)]]></title>
+      <identifier><![CDATA[laptop-computer-demo7]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:33:{s:15:"magicproduct_id";s:2:"95";s:5:"title";s:24:"Laptop & Computer(Demo7)";s:4:"ajax";s:1:"1";s:5:"types";a:4:{i:0;s:10:"bestseller";i:1;s:6:"latest";i:2;s:3:"new";i:3;s:4:"sale";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:11:"category_id";s:2:"12";s:12:"category_ids";a:7:{i:0;s:1:"4";i:1;s:2:"14";i:2;s:2:"11";i:3;s:2:"13";i:4;s:2:"51";i:5;s:2:"52";i:6;s:2:"53";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"3";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";s:13:"media_gallery";a:1:{s:6:"images";a:1:{s:18:"vce4i2d46rmk00f8en";a:15:{s:8:"position";s:1:"1";s:10:"media_type";s:5:"image";s:14:"video_provider";s:0:"";s:4:"file";s:11:"/7/g/7g.jpg";s:8:"value_id";s:0:"";s:5:"label";s:0:"";s:4:"link";s:0:"";s:7:"caption";s:0:"";s:8:"disabled";s:1:"0";s:7:"removed";s:0:"";s:9:"video_url";s:0:"";s:11:"video_title";s:0:"";s:17:"video_description";s:0:"";s:14:"video_metadata";s:0:"";s:4:"role";s:0:"";}}}}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <title><![CDATA[Smartphone]]></title>
+      <identifier><![CDATA[smartphone-demo7]]></identifier>
+      <type_id><![CDATA[3]]></type_id>
+      <config><![CDATA[a:33:{s:5:"title";s:10:"Smartphone";s:10:"identifier";s:16:"smartphone-demo7";s:4:"ajax";s:1:"1";s:5:"types";a:4:{i:0;s:10:"bestseller";i:1;s:6:"latest";i:2;s:6:"random";i:3;s:4:"sale";}s:9:"activated";s:6:"latest";s:5:"limit";s:2:"10";s:6:"status";s:1:"1";s:11:"category_id";s:2:"51";s:12:"category_ids";a:8:{i:0;s:1:"4";i:1;s:1:"5";i:2;s:2:"11";i:3;s:2:"12";i:4;s:2:"13";i:5;s:2:"15";i:6;s:2:"52";i:7;s:2:"54";}s:6:"mobile";s:1:"1";s:8:"portrait";s:1:"2";s:9:"landscape";s:1:"2";s:6:"tablet";s:1:"2";s:8:"notebook";s:1:"3";s:6:"laptop";s:1:"3";s:7:"desktop";s:1:"3";s:7:"visible";s:1:"3";s:5:"timer";s:1:"0";s:5:"slide";s:1:"1";s:8:"vertical";s:5:"false";s:8:"infinite";s:4:"true";s:8:"autoplay";s:5:"false";s:6:"arrows";s:4:"true";s:4:"dots";s:5:"false";s:4:"rows";s:1:"2";s:5:"speed";s:3:"300";s:14:"autoplay-Speed";s:4:"3000";s:7:"padding";s:1:"0";s:4:"cart";s:1:"1";s:7:"compare";s:1:"1";s:8:"wishlist";s:1:"1";s:6:"review";s:1:"0";s:13:"media_gallery";a:1:{s:6:"images";a:1:{s:18:"9n7n51q45ndwmglavn";a:15:{s:8:"position";s:1:"1";s:10:"media_type";s:5:"image";s:14:"video_provider";s:0:"";s:4:"file";s:11:"/7/k/7k.jpg";s:8:"value_id";s:0:"";s:5:"label";s:0:"";s:4:"link";s:0:"";s:7:"caption";s:0:"";s:8:"disabled";s:1:"0";s:7:"removed";s:0:"";s:9:"video_url";s:0:"";s:11:"video_title";s:0:"";s:17:"video_description";s:0:"";s:14:"video_metadata";s:0:"";s:4:"role";s:0:"";}}}}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+  </magicproduct>
+</root>

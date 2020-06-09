@@ -1,0 +1,88 @@
+<?php
+/**
+ * Copyright © 2016 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+
+/**
+ * @var \Magento\Theme\Block\Html\Header $block
+ */
+?>
+<link href="//fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i&subset=latin-ext" rel="stylesheet">
+<header class="page-header alothemes">
+    <div class="header">
+		<div class="header-top">
+			<div class="container">
+				<div class="row">
+					<div class="mobile-center top-left col-md-4 col-sm-12 col-xs-12">
+						<div class="welcometop"><?php echo $this->getChildHtml('welcometop'); ?></div>
+						<div class="top-links">
+							<?php echo $this->getChildHtml('account.links'); ?>
+						</div>
+					</div>
+				    <div class="top-right mobile-center col-md-8 col-sm-12 col-xs-12">
+				       <div class="header-top-link">
+							<?php echo $this->getChildHtml('header.customlinks'); ?>
+							<?php echo $this->getChildHtml('currency'); ?>
+							<?php echo $this->getChildHtml('store_language'); ?>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header-content menu-mobile">
+			<div class="container">
+				<div class="row">
+				    <div class="content-logo col-md-3 col-sm-12 col-xs-12">
+						<div class="header-logo">
+							<?php echo $this->getChildHtml('logo'); ?>
+						</div>
+					</div>
+					<div class="content-search col-md-6 col-sm-6 col-xs-12">
+						<div class="search-area header-search">
+							<?php echo $this->getChildHtml('top.search'); ?>
+						</div>
+					</div>
+					<div class="content-cart col-md-3 col-sm-6 col-xs-12">
+						<div class="tool-header">
+						<div class="top-link-product tool-padding">
+						     <span class="icon fa fa-bar-chart"></span>
+							 <div class="compare">
+								 <a title="<?php echo __('Compare'); ?>" href="<?php echo $this->helper('Magento\Catalog\Helper\Product\Compare')->getListUrl() ?>" target="_blank" class="icon btn-compare">
+								 <span class="text-account text-bold block"><?php echo __('Compare'); ?></span>
+								 <?php $counter = $this->helper('Magento\Catalog\Helper\Product\Compare')->getItemCollection()->count() ?>
+									<span class="counter"><?php echo $counter > 0 ? $counter : 0; ?></span>
+								</a>
+							</div>
+						</div>
+						<div class="top-link-product tool-padding">
+						     <span class="fa fa-heart icons wishlist-icons"></span>
+							 <div class="wishlist">
+								 <a title="<?php echo __('Wishlist'); ?>" href="<?php echo $this->getUrl('wishlist') ?>" target="_blank" class="icon btn-heart">
+								 <span class="text-account text-bold block"><?php echo __('Wishlist'); ?></span>
+								 <?php $counter = $this->helper('Magento\Wishlist\Helper\Data')->getItemCount() ?>
+									<span class="counter"><?php echo $counter > 0 ? $counter : 0; ?></span>
+								</a>
+							</div>
+						</div>
+						<?php echo $this->getChildHtml('minicart'); ?>
+						<span data-action="toggle-nav" class="action nav-toggle"><span><?php /* @escapeNotVerified */ echo __('Toggle Nav') ?></span></span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="header-bottom">
+		    <div class="header-sticker">
+		        <div class="container">
+					<div class="header-right-menu">
+						<?php echo $this->getChildHtml('navigation.sections'); ?>
+						<?php echo $this->getChildHtml('catalog.topnav'); ?>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>

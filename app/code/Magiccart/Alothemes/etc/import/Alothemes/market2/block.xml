@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <block>
+    <item>
+      <title><![CDATA[block_map_contacts]]></title>
+      <identifier><![CDATA[block_map_contact]]></identifier>
+      <content><![CDATA[<div class="google-map"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8277911385558!2d-0.13108129999999998!3d51.51637529999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d183f5ea3%3A0x8e1c5b00f1b16579!2zMTIgT3hmb3JkIFN0LCBTb2hvLCBMb25kb24gVzFELCBWxrDGoW5nIFF14buRYyBBbmg!5e0!3m2!1svi!2s!4v1434261501432" width="570" height="325"></iframe>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[store_contact]]></title>
+      <identifier><![CDATA[store_contact]]></identifier>
+      <content><![CDATA[<div class="store-contact">
+<div class="container">
+<div class="row">
+<div class="col-xs-6 col-sm-3 col-md-3 store1">
+<div class="store-item">
+<h3 class="block-title">Store 1</h3>
+<ul class="store_info">
+<li><span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Email</span> <span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span> <span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span></p>
+</li>
+<li><span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Phone</span> <span class="tit-contain">0123-465-789-111</span> <span class="tit-contain">0123-465-789-111</span></p>
+</li>
+<li><span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Mail Office</span> <span class="tit-contain">Sed ut perspiciatis unde omnis <br /> Street Name, Los Angeles</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-6 col-sm-3 col-md-3 store2">
+<div class="store-item">
+<h3 class="block-title">Store 2</h3>
+<ul class="store_info">
+<li><span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Email</span> <span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span> <span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span></p>
+</li>
+<li><span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Phone</span> <span class="tit-contain">0123-465-789-111</span> <span class="tit-contain">0123-465-789-111</span></p>
+</li>
+<li><span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Mail Office</span> <span class="tit-contain">Sed ut perspiciatis unde omnis <br /> Street Name, Los Angeles</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-6 col-sm-3 col-md-3 store3">
+<div class="store-item">
+<h3 class="block-title">Store 3</h3>
+<ul class="store_info">
+<li><span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Email</span> <span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span> <span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span></p>
+</li>
+<li><span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Phone</span> <span class="tit-contain">0123-465-789-111</span> <span class="tit-contain">0123-465-789-111</span></p>
+</li>
+<li><span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Mail Office</span> <span class="tit-contain">Sed ut perspiciatis unde omnis <br /> Street Name, Los Angeles</span></p>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-6 col-sm-3 col-md-3 store4">
+<div class="store-item">
+<h3 class="block-title">Store 4</h3>
+<ul class="store_info">
+<li><span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Email</span> <span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span> <span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span></p>
+</li>
+<li><span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Phone</span> <span class="tit-contain">0123-465-789-111</span> <span class="tit-contain">0123-465-789-111</span></p>
+</li>
+<li><span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+<p class="flex"><span class="tit-name">Mail Office</span> <span class="tit-contain">Sed ut perspiciatis unde omnis <br /> Street Name, Los Angeles</span></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Custom Left Category  Bestseller]]></title>
+      <identifier><![CDATA[category_view_custom_block]]></identifier>
+      <content><![CDATA[<div class="block block-custom-product block-custom-left">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="best-sale" template="productcustom.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Right Menu]]></title>
+      <identifier><![CDATA[block-right-menu]]></identifier>
+      <content><![CDATA[<div class="banner-menu"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner-menu-right.jpg"}}" alt="" /></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Right Menu Banner and Sale]]></title>
+      <identifier><![CDATA[block_right_menu_banner_sale]]></identifier>
+      <content><![CDATA[<div class="menu-banner-sale"><!--<div class="menu-products-sale">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="megamenu-sale" template="product.phtml"}}</div-->
+<div class="banner-menu"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner-menu-right2.jpg"}}" alt="" /></div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Right Menu 2]]></title>
+      <identifier><![CDATA[block-right-menu2]]></identifier>
+      <content><![CDATA[<div class="banner-menu banner-menu-position"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner-menu-right3.png"}}" alt="" /></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Bottom Menu]]></title>
+      <identifier><![CDATA[block-bottom-menu2]]></identifier>
+      <content><![CDATA[<div class="banner-menu banner-menu-bottom"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner-menu-bottom.jpg"}}" alt="" /></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Product Types]]></title>
+      <identifier><![CDATA[block-product-types]]></identifier>
+      <content><![CDATA[<ul class="level0 dropdown">
+<li class="level1"><a href="{{store direct_url="smart-tvs-from-sharpusa.html"}}"><span>Single product</span></a></li>
+<li class="level1"><a href="{{store direct_url="grouped-product.html"}}"><span>Group product</span></a></li>
+<li class="level1"><a href="{{store direct_url="configurable-product.html"}}"><span>Configurable product</span></a></li>
+<li class="level1"><a href="{{store direct_url="samsung-galaxy-smartphone.html"}}"><span>Product with Related</span></a></li>
+<li class="level1"><a href="{{store direct_url="samsung-galaxy-smartphone.html"}}"><span>Product with Upsell</span></a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[my-supermarket]]></title>
+      <identifier><![CDATA[my-supermarket]]></identifier>
+      <content><![CDATA[<ul class="links">
+<li><a title="My Order" href="#">Minhas Compras</a></li>
+<li><a title="My Review" href="#">Meus comentários</a></li>
+<li><a title="My Favorites" href="#">Meus Favoritos</a></li>
+<li class=" last"><a title="My Coupons" href="#">Meus Cupons</a></li>
+</ul>
+<div class="my-submit"><a title="Solicite Ajuda" href="#">Solicite Ajuda</a>
+<p title="Nos ajude a encontrar o que você precisa">Nos ajude a encontrar o que você precisa</p>
+</div>]]></content>
+      <is_active><![CDATA[0]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[my-account]]></title>
+      <identifier><![CDATA[my-account]]></identifier>
+      <content><![CDATA[<ul class="links">
+	<li><h4>Account Home</h4></li>
+	<li class="first">
+		<a title="Dashboard" href="#">Dashboard</a>
+	</li>
+	<li>
+		<a title="Messages Tickets" href="#">Messages / Tickets</a>
+	</li>
+	<li class="last">
+		<a title="Help FA’Q" href="#">Help FA’Q'</a>
+	</li>
+</ul>
+<ul class="links">
+	<li><h4>Orders</h4></li>
+	<li class="first">
+		<a title="Order Status" href="#">Order Status</a>
+	</li>
+	<li class="last">
+		<a title="Find invoice" href="#">Find invoice</a>
+	</li>
+</ul>
+<ul class="links">
+	<li><h4>Options</h4></li>
+	<li class="first">
+		<a title="Account Settings" href="#">Account Settings</a>
+	</li>
+	<li>
+		<a title="Address Book" href="#">Address Book</a>
+	</li>
+	<li class="last">
+		<a title="Subscriptions" href="#">Subscriptions</a>
+	</li>
+</ul>
+<ul class="links">
+	<li><h4>Warranty / Returns</h4></li>
+	<li class="first">
+		<a title="Returns an iteam" href="#">Returns an iteam</a>
+	</li>
+	<li class="last">
+		<a title="Check Return Status" href="#">Check Return Status</a>
+	</li>
+</ul>
+<ul class="links">
+	<li><h4>Shopping</h4></li>
+	<li class="first">
+		<a title="Gift Cards" href="#">Gift Cards</a>
+	</li>
+	<li>
+		<a title="Gift Cards" href="#">Gift Cards</a>
+	</li>
+	<li class="last">
+		<a title="My Collections" href="#">My Collections</a>
+	</li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block service]]></title>
+      <identifier><![CDATA[service]]></identifier>
+      <content><![CDATA[<!-- Block service -->
+<div class="service">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-3 col-sm-3 col-md-3 one-service">
+			   <div class="service-item">
+					<div class="icon"><img class="img-responsive" alt="services" src="{{media url="wysiwyg/alothemes/static/demo3/icon-s1.png"}}" /></div>
+					<div class="info">
+						<h3><span>Free</span> Fast Delivery</h3>
+						<p>On hundreds of Digital appliances <br> Excludes Sunday delivery</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-3 col-sm-3 col-md-3 two-service">
+				<div class="service-item">
+					<div class="icon"><img class="img-responsive" alt="services" src="{{media url="wysiwyg/alothemes/static/demo3/icon-s2.png"}}" /></div>
+					<div class="info">
+						<h3><span>Buyer</span> Protection</h3>
+						<p>On hundreds of Digital appliances <br> Excludes Sunday delivery</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-3 col-sm-3 col-md-3 three-service">
+				<div class="service-item">
+					<div class="icon"><img class="img-responsive" alt="services" src="{{media url="wysiwyg/alothemes/static/demo3/icon-s3.png"}}" /></div>
+					<div class="info">
+						<h3><span>Return</span> & Exchange</h3>
+						<p>On hundreds of Digital appliances <br> Excludes Sunday delivery</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-xs-3 col-sm-3 col-md-3 for-service">
+				<div class="service-item">
+					<div class="icon"><img class="img-responsive" alt="services" src="{{media url="wysiwyg/alothemes/static/demo3/icon-s4.png"}}" /></div>
+					<div class="info">
+						<h3><span>Support</span> 24/7</h3>
+						<p>On hundreds of Digital appliances <br> Excludes Sunday delivery</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Slide Home2]]></title>
+      <identifier><![CDATA[slide-home]]></identifier>
+      <content><![CDATA[<div class="slider-primary">
+<div class="slider-secondary">
+<div class="slider-primary">
+<div class="slider-secondary">
+<div class="slide-home alo-magicslider">{{widget type="Magiccart\Magicslider\Block\Widget\Slider" identifier="slide2" class="home-slider" template="magicslider.phtml"}}</div>
+</div>
+</div>
+<!-- Block service -->
+<div class="service">
+<div class="container box2">
+<div class="row">
+<div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<div style="float: left; text-align: left; vertical-align: middle; "><span style="font-size: 18px; font-weight: bold;">QUALIDADE</span> <br><span style="font-size: 15px;">os melhores produtos</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<div style="float: left; text-align: left; vertical-align: middle; "><span style="font-size: 18px; font-weight: bold;">CARTÃO ou SEEDS</span> <br><span style="font-size: 15px;">escolha a forma de pagar</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<div style="float: left; text-align: left; vertical-align: middle; "><span style="font-size: 18px; font-weight: bold;">100% SEGURO</span> <br><span style="font-size: 15px;">ambiente protegido</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="box container-fluid p-0">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
+<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_sementes.png"}}" alt="" width="370px" height="190px"></div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
+<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_pet.png"}}" alt="" width="370" height="190"></div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
+<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_maquinas.png"}}" alt="" width="370" height="190"></div>
+</div>
+</div>
+</div>
+<style>
+   div.box {
+   width: 100%;
+   height: auto;
+   background: #F8F8F8;
+   text-align: center;
+   padding-top: 5%;
+   padding-left: 5%;
+   padding-right: 5%;
+   }
+   div.box2 {
+   width: 100%;
+   background: #EBEBEB;
+   text-align: center;
+   padding-top: 29px;
+   padding-left: 5%;
+   padding-right: 5%;
+   color: #21409A;
+   }
+   div.box2 h3 {
+   color: #21409A;
+   font-weight: bold;
+   }
+   div.caption-primary {
+   background: url("{{media url="wysiwyg/img_promocao.png"}}");
+   height: auto;
+   width: 100%;
+   padding: 5%;
+   }
+   div.caption-primary h2 {
+   color: white;
+   }
+   .service {
+   padding-top: 0px !important;
+   padding-bottom: 0px !important;
+   }
+</style>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Content Bottom]]></title>
+      <identifier><![CDATA[block_content_bottom]]></identifier>
+      <content><![CDATA[<div class="box-products box-products-five">
+<div class="container">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="best_rated_sellers"}}</div>
+</div>
+<div class="box3 container-fluid p-0">
+<div class="row">
+<div class="col-lg-2 col-md-2  col-xs-2">
+<h2>PARCEIROS</h2>
+</div>
+<div class="col-lg-2 col-md-2  col-xs-2">
+<h3>&nbsp;</h3>
+</div>
+</div>
+<div class="row">
+
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_adama.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_bayer.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_novartis.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_syngenta.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_fmc.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_cvale.png"}}" alt=""></div>
+</div>
+</div>
+<style>
+   div.box3 {
+   width: 100%;
+   height: auto;
+   background-color: #F8F8F8;
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-bottom: 5%;
+   text-align: center;
+   }
+   div.box3 h2 {
+   color: #21409A;
+   font-weight: bold;
+   }
+</style>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Footer Top]]></title>
+      <identifier><![CDATA[block_footer_top]]></identifier>
+      <content><![CDATA[<div class="footer2 container-fluid p-0">
+   <div class="footer">
+      <div class="row">
+         <div class="col-lg-4 col-md-4  col-xs-12">
+            <div class="collapsible mobile-collapsible">
+               <div class="block1 block-content-statick">
+                  <img src="{{media url="wysiwyg/logo_rodape.png"}}" alt="" width="111" height="111"><br>
+                  <ul class="address-list">
+                     <ul class="address-list">
+                        <li class="feature-icon first">
+                           <br><br>
+                           <p class="no-margin"><strong>Endereço: </strong> Av. Independência, 2347<br>Centro, Palotina, Paraná</p>
+                        </li>
+                        <li class="feature-icon">
+                           <p><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
+                        </li>
+                     </ul>
+                  </ul>
+                  <p><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-5 col-md-5 col-xs-12">
+            <div class="collapsible mobile-collapsible">
+               <br><br><br><br>
+               <h3 class="block-title heading">C.Vale</h3>
+               <p>A C.Vale é uma cooperativa agroindustrial com atuação no Paraná, Santa Catarina, Mato Grosso, Mato Grosso do Sul, Rio Grande do Sul e Paraguai. Possui 151 unidades de negócios, mais de 22.000 associados e mais 10.600 funcionários.</p>
+               <p><button class="button primary action">Conheça mais</button></p>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-3 col-xs-12">
+            <div class="collapsible mobile-collapsible">
+               <br><br><br><br>
+               <h3 class="block-title heading">Atendimento</h3>
+               <span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+               <div class="block-content block-content-statick toggle-content">
+                  <ul class="bullet">
+                     <li>Minha conta</li>
+                     <li>Meus pedidos</li>
+                     <li>Política de privacidade</li>
+                     <li>Termos e condições</li>
+                     <li>Dúvidas</li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-12 col-md-12  col-xs-12">
+            <p>Formas de pagamento: <img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> <img src="{{media url="wysiwyg/card_master.png"}}" alt=""> <img src="{{media url="wysiwyg/card_america_1.png"}}" alt=""> <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> <img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></p>
+         </div>
+      </div>
+
+   </div>
+</div>
+<style>
+   div.footer2 {
+   color: white !important;
+   margin-top: 0px !important;
+   padding-top: 20px;
+   padding-left: 20%;
+   padding-right: 20%;
+   background: url("{{media url="wysiwyg/rodape02.jpg"}}");
+   width: 100%;
+   height: auto;
+   }
+</style>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+  </block>
+</root>

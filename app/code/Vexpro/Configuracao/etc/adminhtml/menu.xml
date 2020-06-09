@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add
+            id="Vexpro_Configuracao::url"
+            title="Vexpro"
+            module="Vexpro_Configuracao"
+            sortOrder="10"
+            action="frontname/controller/action"
+            resource="Vexpro_Configuracao::url"/>
+    </menu>
+</config>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <magicmenu>
+    <item>
+      <name><![CDATA[Contato]]></name>
+      <extra><![CDATA[1]]></extra>
+      <magic_label><![CDATA[]]></magic_label>
+      <link><![CDATA[contact]]></link>
+      <ext_content><![CDATA[]]></ext_content>
+      <order><![CDATA[3]]></order>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <name><![CDATA[Sobre Nós]]></name>
+      <extra><![CDATA[1]]></extra>
+      <magic_label><![CDATA[]]></magic_label>
+      <link><![CDATA[about-magento-demo-store]]></link>
+      <ext_content><![CDATA[]]></ext_content>
+      <order><![CDATA[4]]></order>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <name><![CDATA[Product Types]]></name>
+      <extra><![CDATA[1]]></extra>
+      <magic_label><![CDATA[Hot]]></magic_label>
+      <link><![CDATA[smartphone-table.html]]></link>
+      <ext_content><![CDATA[block-product-types]]></ext_content>
+      <order><![CDATA[0]]></order>
+      <status><![CDATA[2]]></status>
+    </item>
+    <item>
+      <name><![CDATA[Blog]]></name>
+      <extra><![CDATA[1]]></extra>
+      <magic_label><![CDATA[]]></magic_label>
+      <link><![CDATA[blog]]></link>
+      <ext_content><![CDATA[]]></ext_content>
+      <order><![CDATA[0]]></order>
+      <status><![CDATA[2]]></status>
+    </item>
+    <item>
+      <name><![CDATA[Promoções]]></name>
+      <extra><![CDATA[1]]></extra>
+      <magic_label><![CDATA[]]></magic_label>
+      <link><![CDATA[promocoes]]></link>
+      <ext_content><![CDATA[]]></ext_content>
+      <order><![CDATA[0]]></order>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <name><![CDATA[Mais Vendidos]]></name>
+      <extra><![CDATA[1]]></extra>
+      <magic_label><![CDATA[]]></magic_label>
+      <link><![CDATA[mais-vendidos]]></link>
+      <ext_content><![CDATA[]]></ext_content>
+      <order><![CDATA[2]]></order>
+      <status><![CDATA[1]]></status>
+    </item>
+    <item>
+      <name><![CDATA[Novidades]]></name>
+      <extra><![CDATA[1]]></extra>
+      <magic_label><![CDATA[]]></magic_label>
+      <link><![CDATA[novidades]]></link>
+      <ext_content><![CDATA[]]></ext_content>
+      <order><![CDATA[1]]></order>
+      <status><![CDATA[1]]></status>
+    </item>
+  </magicmenu>
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <magicslider>
+    <item>
+      <title><![CDATA[CVale]]></title>
+      <identifier><![CDATA[slide2]]></identifier>
+      <config><![CDATA[{"magicslider_id":"2","title":"CVale","status":"1","mobile":"1","portrait":"1","landscape":"1","tablet":"1","notebook":"1","laptop":"1","desktop":"1","visible":"1","vertical":"false","infinite":"true","autoplay":"true","arrows":"true","dots":"true","rows":"1","speed":"500","autoplay-Speed":"6000","padding":"0","media_gallery":{"images":{"6vvlia5mmh5":{"position":"3","media_type":"image","video_provider":"","file":"\/b\/a\/banner_syngenta.jpg","value_id":"","label":"","link":"","caption":"","disabled":"0","removed":"","video_url":"","video_title":"","video_description":"","video_metadata":"","role":""}}}}]]></config>
+      <status><![CDATA[1]]></status>
+    </item>
+  </magicslider>
+</root>

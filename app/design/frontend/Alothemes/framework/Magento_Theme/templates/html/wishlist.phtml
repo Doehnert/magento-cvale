@@ -1,0 +1,13 @@
+<div class="top-link-product tool-padding">
+    <span class="fa fa-heart icons wishlist-icons"></span>
+    <div class="wishlist">
+        <a title="<?php echo __('Wishlist'); ?>" href="<?php echo $this->getUrl('wishlist') ?>" target="_blank" class="icon btn-heart">
+            <span class="text-account text-bold block"><?php echo __('Wishlist'); ?></span>
+            <?php $counter = $this->helper('Magento\Wishlist\Helper\Data')->getItemCount() ?>
+            <?php /* if($counter): */ ?>
+            <span class="counter"><?php echo $counter > 0 ? $counter:0; ?></span>
+            <?php /* endif; */ ?>
+            <span class="text-account text-hidden"><?php echo __('item(s)'); ?></span>
+        </a>
+    </div>
+</div>
