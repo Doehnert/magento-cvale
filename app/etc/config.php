@@ -233,7 +233,6 @@ return [
         'Amazon_Core' => 1,
         'Amazon_Login' => 1,
         'Amazon_Payment' => 1,
-        'Bleez_Correios' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Dotdigitalgroup_Chat' => 1,
         'ImaginationMedia_Correios' => 1,
@@ -253,7 +252,6 @@ return [
         'Magiccart_Magicslider' => 1,
         'Magiccart_Shopbrand' => 1,
         'Magiccart_Testimonial' => 1,
-        'MercadoPago_Core' => 1,
         'Piszczek_InputMask' => 1,
         'Sebwite_SmartSearch' => 1,
         'SystemCode_Base' => 1,
@@ -266,7 +264,6 @@ return [
         'Vexpro_Configuracao' => 1,
         'Vexpro_GerminiPay' => 1,
         'Vexpro_Nota' => 1,
-        'Vexpro_PontosCliente' => 1,
         'Vexpro_PontosProduto' => 1,
         'Vexpro_Unidade' => 1,
         'Yotpo_Yotpo' => 1
