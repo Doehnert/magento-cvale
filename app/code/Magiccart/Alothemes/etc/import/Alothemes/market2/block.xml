@@ -270,17 +270,11 @@
 <div class="col-lg-4 col-md-4  col-xs-12">
 <div class="collapsible mobile-collapsible">
 <div class="block1 block-content-statick"><img src="{{media url="wysiwyg/logo_rodape.png"}}" alt="" width="114" height="114"><br>
-<ul class="address-list">
-<ul class="address-list">
-<li class="feature-icon first"><br><br>
-<p><span class="fa fa-camera-retro"></span><strong>Endereço: </strong>&nbsp;Av. Independência, 2347 Centro, Palotina, Paraná</p>
-</li>
-<li class="feature-icon">
-<p><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
-</li>
-</ul>
-</ul>
-<p><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
+<p><em class="fa fa-map-signs" aria-hidden="true">&nbsp;&nbsp;</em><strong>Endereço: </strong>&nbsp;Av. Independência, 2347 Centro, Palotina, Paraná</p>
+
+<p><em class="fa fa-phone-square" aria-hidden="true">&nbsp;&nbsp;</em><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
+
+<p><em class="fa fa-envelope" aria-hidden="true">&nbsp;&nbsp;</em><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
 </div>
 </div>
 </div>
@@ -307,19 +301,33 @@
 </div>
 </div>
 </div>
-<div class="row">Formas de pagamento: <img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> <img src="{{media url="wysiwyg/card_master.png"}}" alt=""> <img src="{{media url="wysiwyg/card_america_1.png"}}" alt=""> <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> <img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></div>
+<div class="row">Formas de pagamento: &nbsp;<img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_master.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_america_1.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></div>
 </div>
 </div>
+<div class="copyright">©2020 C.Vale - Cooperativa Agroindustrial. Todos os direitos reservados.</div>
 <style>
+   .page-footer .block-footer-top .footer {
+      padding-top: 25px !important;
+   }
+   div.copyright {
+    text-align: center;
+    height: 45px;
+    padding-top: 15px;
+    background-color: #2d4384;
+    color: white;
+   }
    div.footer2 {
    color: white !important;
    margin-top: 0px !important;
-   padding-top: 20px;
+   padding-bottom: 1%;
    padding-left: 20%;
    padding-right: 20%;
    background: url("{{media url="wysiwyg/rodape02.jpg"}}");
    width: 100%;
    height: auto;
+   }
+   div.footer{
+       padding-top: 25px;
    }
 </style>]]></content>
       <is_active><![CDATA[1]]></is_active>
