@@ -44,20 +44,22 @@
 							<?php echo $this->getChildHtml('logo'); ?>
 						</div>
 					</div>
-					<div class="content-search col-md-6 col-sm-6 col-xs-12">
+					<div class="content-search col-md-5 col-sm-6 col-xs-12">
 						<div class="search-area header-search">
 							<?php echo $this->getChildHtml('top.search'); ?>
 						</div>
 					</div>
-					<div class="content-cart col-md-3 col-sm-6 col-xs-12">
+					<div class="content-cart col-md-4 col-sm-6 col-xs-12">
 						<div class="tool-header">
-				        <div class="header-setting tool-setting">
+				        <div class="header-setting tool-setting" style="width: 200px !important">
 							<div class="settting-switcher">
 							    <div class="dropdown-toggle toggle-tab outside-close">
+								
 									<div class="text-setting text-hidden">
+										<em style="font-size: 40px; float:left; margin-right: 5%" class="fa fa-user-circle-o" aria-hidden="true"></em>
 										<?php 
 											if($customerSession->isLoggedIn()) {
-												echo sprintf(__('Hi, %s!'), $customerSession->getCustomer()->getFirstname());
+												echo sprintf(__('Olá, %s!'), $customerSession->getCustomer()->getFirstname());
 											} else {
 												echo __('Hi, Sign in'); 
 											}
