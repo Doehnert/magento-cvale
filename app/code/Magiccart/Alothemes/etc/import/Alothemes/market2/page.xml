@@ -182,7 +182,66 @@
       <page_layout><![CDATA[1column]]></page_layout>
       <identifier><![CDATA[demo2]]></identifier>
       <content_heading><![CDATA[]]></content_heading>
-      <content><![CDATA[<div class="caption-primary container-fluid p-0"><span style="font-size: 25px; color: white;"><strong>PROMOÇÃO</strong> | Economize até 15%, confira a lista dos produtos!</span></div>
+      <content><![CDATA[<div class="slider-primary">
+<div class="slider-secondary">
+<div class="slider-primary">
+<div class="slider-secondary">
+<div class="slide-home alo-magicslider">{{widget type="Magiccart\Magicslider\Block\Widget\Slider" identifier="slide2" class="home-slider" template="magicslider.phtml"}}</div>
+</div>
+</div>
+<!-- Block service -->
+<div class="service">
+<div class="container box2">
+<div class="row">
+<div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">QUALIDADE</span> <br><span style="font-size: 15px;">os melhores produtos</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">CARTÃO ou SEEDS</span> <br><span style="font-size: 15px;">escolha a forma de pagar</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">100% SEGURO</span> <br><span style="font-size: 15px;">ambiente protegido</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="box container-fluid p-0">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: left;">
+<div class="service-item"><img src="{{media url="wysiwyg/banners_sementes.png"}}" alt="" width="370px" height="190px"></div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
+<div class="service-item"><img src="{{media url="wysiwyg/banners_pet.png"}}" alt="" width="370" height="190"></div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: right;">
+<div class="service-item"><img src="{{media url="wysiwyg/banners_maquinas.png"}}" alt="" width="370" height="190"></div>
+</div>
+</div>
+</div>
+<div class="caption-primary"><span style="font-size: 25px; color: white;"><strong>PROMOÇÃO</strong> | Economize até 15%, confira a lista dos produtos!</span></div>
 <div class="row main colum2">
 <div class="col-md-9 col-sm-9 col-xs-12 part1">
 <div class="box-products box-products-one deal-the-day">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" template="product_deal.phtml" identifier="deals-of-the-day"}}</div>
@@ -195,15 +254,81 @@
 <div class="custom-product custom-product2">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="random_products" template="productcustom.phtml"}}</div>
 </div>
 </div>
+
+<div class="box-products box-products-five">
+<div class="container">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="best_rated_sellers"}}</div>
+</div>
+<div class="box3 container-fluid p-0">
+<div class="row">
+<div class="col-lg-2 col-md-2  col-xs-2">
+<h2>PARCEIROS</h2>
+</div>
+<div class="col-lg-2 col-md-2  col-xs-2">
+<h3>&nbsp;</h3>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_adama.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_bayer.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_novartis.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_syngenta.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_fmc.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_cvale.png"}}" alt=""></div>
+</div>
+</div>
 <style>
+   div.box3 {
+   width: 100%;
+   height: auto;
+   background-color: #F8F8F8;
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-bottom: 5%;
+   text-align: center;
+   }
+   div.box3 h2 {
+   color: #21409A;
+   font-weight: bold;
+   }
    div.caption-primary {
-   background: url("{{media url="wysiwyg/img_promocao.png"}}");
+   background-color: blue !important;
    max-width: 100%;
    height: auto;
    padding: 2% !important;
    }
    div.caption-primary h2 {
    color: white;
+   }
+   div.box {
+   width: 100%;
+   height: auto;
+   background: #F8F8F8;
+   text-align: center;
+   padding-top: 5%;
+   }
+   div.box2 {
+   width: 100%;
+   background: #EBEBEB;
+   text-align: center;
+   padding-top: 29px;
+   color: #21409A;
+   }
+   div.box2 h3 {
+   color: #21409A;
+   font-weight: bold;
+   }
+   div.caption-primary {
+   background: url("{{media url="wysiwyg/img_promocao.png"}}");
+   height: auto;
+   width: 100%;
+   padding: 5%;
+   }
+   div.caption-primary h2 {
+   color: white;
+   }
+   .service {
+   padding-top: 0px !important;
+   padding-bottom: 0px !important;
    }
 </style>]]></content>
       <layout_update_xml><![CDATA[<!-- Slide showcase-->
@@ -242,9 +367,7 @@
 <p>A C.Vale também financia a produção, garantindo crédito aos cooperados, especialmente os pequenos produtores. A empresa comercializa insumos, peças, acessórios e revende máquinas agrícolas, assegurando preços mais competitivos aos associados. Também produz semente de soja em Santa Catarina, que é comercializada em todo Brasil. Além disso, a cooperativa mantém uma rede de supermercados com oito lojas no Paraná, Mato Grosso e Mato Grosso do Sul.</p>
 <p>No segmento industrial, a C.Vale produz amido modificado de mandioca e rações. Neste mesmo segmento, a cooperativa mantém um complexo avícola com capacidade de abate de 600 mil frangos/dia. É o primeiro sistema de integração avícola brasileiro, em escala comercial, a utilizar processos automatizados para o controle de ambiente.</p>
 <p>A falta de locais para armazenar a produção, as dificuldades para o escoamento da safra e a ausência de crédito e assistência técnica levaram um grupo de 24 agricultores a fundar, em 7 de novembro de 1963, a Cooperativa Agrícola Mista de Palotina Ltda (Campal). Em 1969 aconteceu o início efetivo das atividades da cooperativa com o recebimento de trigo em armazém de um moinho de Palotina. Em 1970 teve início a construção do primeiro armazém da cooperativa, que ficou pronto no início do ano seguinte.</p>
-<p>
-<img src="{{media url=&quot;wysiwyg/Imagem_35.png&quot;}}" alt="" />
-</p>
+<p><img style="float: right;" src="{{media url="wysiwyg/Imagem_35.png"}}" alt=""></p>
 <p>O rápido crescimento da produção levou a Campal a iniciar a fase de estruturação física com a construção de unidades para recebimento de cereais no município de Palotina. Com a divisão territorial da região oeste entre as cooperativas, a Campal expandiu-se para além das fronteiras de Palotina, o que levou os associados a modificar a razão social da empresa, em 1974, para Cooperativa Agrícola Mista Vale do Piquiri Ltda (Coopervale). Em 1981, a Coopervale passou a atuar no Mato Grosso e, em 1984, no estado de Santa Catarina.</p>
 <p>No início dos anos 90, a Coopervale montou um Plano de Modernização ouvindo milhares de associados, em trabalho coordenado por Alfredo Lang, que viria a assumir a presidência da cooperativa em 1995. Naquele ano, a Coopervale começou a executar o plano para tornar a empresa mais competitiva e iniciar o processo de agregação de valores aos produtos primários. Era o início de uma nova era para a cooperativa. A largada desta etapa aconteceu em outubro de 1997, quando foi inaugurado o complexo avícola C.Vale. Este projeto deu aos associados a oportunidade de produzir frango em grande escala. Outro aspecto importante da atividade está na rastreabilidade da cadeia produtiva. A cooperativa mantém um sistema informatizado que permite o acesso aos procedimentos utilizados para a produção de matéria prima (soja e milho), passando pela fabricação de ração, manejo e industrialização das aves. O objetivo é garantir a segurança alimentar aos consumidores de carne de frango.</p>
 <p>A industrialização ampliou-se em 2002 com início das operações de uma amidonaria em Assis Chateaubriand.</p>

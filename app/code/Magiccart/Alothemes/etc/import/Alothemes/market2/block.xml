@@ -252,203 +252,63 @@
     <item>
       <title><![CDATA[Slide Home2]]></title>
       <identifier><![CDATA[slide-home]]></identifier>
-      <content><![CDATA[<div class="slider-primary">
-<div class="slider-secondary">
-<div class="slider-primary">
-<div class="slider-secondary">
-<div class="slide-home alo-magicslider">{{widget type="Magiccart\Magicslider\Block\Widget\Slider" identifier="slide2" class="home-slider" template="magicslider.phtml"}}</div>
-</div>
-</div>
-<!-- Block service -->
-<div class="service">
-<div class="container box2">
-<div class="row">
-<div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
-<div class="service-item">
-<div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
-<div class="col-xs-6 col-sm-6 col-md-6">
-<div style="float: left; text-align: left; vertical-align: middle; "><span style="font-size: 18px; font-weight: bold;">QUALIDADE</span> <br><span style="font-size: 15px;">os melhores produtos</span></div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
-<div class="service-item">
-<div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
-<div class="col-xs-6 col-sm-6 col-md-6">
-<div style="float: left; text-align: left; vertical-align: middle; "><span style="font-size: 18px; font-weight: bold;">CARTÃO ou SEEDS</span> <br><span style="font-size: 15px;">escolha a forma de pagar</span></div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
-<div class="service-item">
-<div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
-<div class="col-xs-6 col-sm-6 col-md-6">
-<div style="float: left; text-align: left; vertical-align: middle; "><span style="font-size: 18px; font-weight: bold;">100% SEGURO</span> <br><span style="font-size: 15px;">ambiente protegido</span></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="box container-fluid p-0">
-<div class="row">
-<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
-<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_sementes.png"}}" alt="" width="370px" height="190px"></div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
-<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_pet.png"}}" alt="" width="370" height="190"></div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
-<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_maquinas.png"}}" alt="" width="370" height="190"></div>
-</div>
-</div>
-</div>
-<style>
-   div.box {
-   width: 100%;
-   height: auto;
-   background: #F8F8F8;
-   text-align: center;
-   padding-top: 5%;
-   padding-left: 5%;
-   padding-right: 5%;
-   }
-   div.box2 {
-   width: 100%;
-   background: #EBEBEB;
-   text-align: center;
-   padding-top: 29px;
-   padding-left: 5%;
-   padding-right: 5%;
-   color: #21409A;
-   }
-   div.box2 h3 {
-   color: #21409A;
-   font-weight: bold;
-   }
-   div.caption-primary {
-   background: url("{{media url="wysiwyg/img_promocao.png"}}");
-   height: auto;
-   width: 100%;
-   padding: 5%;
-   }
-   div.caption-primary h2 {
-   color: white;
-   }
-   .service {
-   padding-top: 0px !important;
-   padding-bottom: 0px !important;
-   }
-</style>]]></content>
+      <content><![CDATA[]]></content>
       <is_active><![CDATA[1]]></is_active>
     </item>
     <item>
       <title><![CDATA[Block Content Bottom]]></title>
       <identifier><![CDATA[block_content_bottom]]></identifier>
-      <content><![CDATA[<div class="box-products box-products-five">
-<div class="container">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="best_rated_sellers"}}</div>
-</div>
-<div class="box3 container-fluid p-0">
-<div class="row">
-<div class="col-lg-2 col-md-2  col-xs-2">
-<h2>PARCEIROS</h2>
-</div>
-<div class="col-lg-2 col-md-2  col-xs-2">
-<h3>&nbsp;</h3>
-</div>
-</div>
-<div class="row">
-
-<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_adama.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_bayer.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_novartis.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_syngenta.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_fmc.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img class="img-thumbnail" src="{{media url="wysiwyg/logo_cvale.png"}}" alt=""></div>
-</div>
-</div>
-<style>
-   div.box3 {
-   width: 100%;
-   height: auto;
-   background-color: #F8F8F8;
-   padding-left: 5%;
-   padding-right: 5%;
-   padding-bottom: 5%;
-   text-align: center;
-   }
-   div.box3 h2 {
-   color: #21409A;
-   font-weight: bold;
-   }
-</style>]]></content>
+      <content><![CDATA[]]></content>
       <is_active><![CDATA[1]]></is_active>
     </item>
     <item>
       <title><![CDATA[Block Footer Top]]></title>
       <identifier><![CDATA[block_footer_top]]></identifier>
       <content><![CDATA[<div class="footer2 container-fluid p-0">
-   <div class="footer">
-      <div class="row">
-         <div class="col-lg-4 col-md-4  col-xs-12">
-            <div class="collapsible mobile-collapsible">
-               <div class="block1 block-content-statick">
-                  <img src="{{media url="wysiwyg/logo_rodape.png"}}" alt="" width="111" height="111"><br>
-                  <ul class="address-list">
-                     <ul class="address-list">
-                        <li class="feature-icon first">
-                           <br><br>
-                           <p class="no-margin"><strong>Endereço: </strong> Av. Independência, 2347<br>Centro, Palotina, Paraná</p>
-                        </li>
-                        <li class="feature-icon">
-                           <p><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
-                        </li>
-                     </ul>
-                  </ul>
-                  <p><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-5 col-md-5 col-xs-12">
-            <div class="collapsible mobile-collapsible">
-               <br><br><br><br>
-               <h3 class="block-title heading">C.Vale</h3>
-               <p>A C.Vale é uma cooperativa agroindustrial com atuação no Paraná, Santa Catarina, Mato Grosso, Mato Grosso do Sul, Rio Grande do Sul e Paraguai. Possui 151 unidades de negócios, mais de 22.000 associados e mais 10.600 funcionários.</p>
-               <p><button class="button primary action">Conheça mais</button></p>
-            </div>
-         </div>
-         <div class="col-lg-3 col-md-3 col-xs-12">
-            <div class="collapsible mobile-collapsible">
-               <br><br><br><br>
-               <h3 class="block-title heading">Atendimento</h3>
-               <span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
-               <div class="block-content block-content-statick toggle-content">
-                  <ul class="bullet">
-                     <li>Minha conta</li>
-                     <li>Meus pedidos</li>
-                     <li>Política de privacidade</li>
-                     <li>Termos e condições</li>
-                     <li>Dúvidas</li>
-                  </ul>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="row">
-         <div class="col-lg-12 col-md-12  col-xs-12">
-            <p>Formas de pagamento: <img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> <img src="{{media url="wysiwyg/card_master.png"}}" alt=""> <img src="{{media url="wysiwyg/card_america_1.png"}}" alt=""> <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> <img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></p>
-         </div>
-      </div>
-
-   </div>
+<div class="footer">
+<div class="row">
+<div class="col-lg-4 col-md-4  col-xs-12">
+<div class="collapsible mobile-collapsible">
+<div class="block1 block-content-statick"><img src="{{media url="wysiwyg/logo_rodape.png"}}" alt="" width="114" height="114"><br>
+<ul class="address-list">
+<ul class="address-list">
+<li class="feature-icon first"><br><br>
+<p><span class="fa fa-camera-retro"></span><strong>Endereço: </strong>&nbsp;Av. Independência, 2347 Centro, Palotina, Paraná</p>
+</li>
+<li class="feature-icon">
+<p><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
+</li>
+</ul>
+</ul>
+<p><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
+</div>
+</div>
+</div>
+<div class="col-lg-5 col-md-5 col-xs-12">
+<div class="collapsible mobile-collapsible"><br><br><br><br>
+<h3 class="block-title heading">C.Vale</h3>
+<p>A C.Vale é uma cooperativa agroindustrial com atuação no Paraná, Santa Catarina, Mato Grosso, Mato Grosso do Sul, Rio Grande do Sul e Paraguai. Possui 151 unidades de negócios, mais de 22.000 associados e mais 10.600 funcionários.</p>
+<p><button class="button primary action">Conheça mais</button></p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-xs-12">
+<div class="collapsible mobile-collapsible"><br><br><br><br>
+<h3 class="block-title heading">Atendimento</h3>
+<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+<div class="block-content block-content-statick toggle-content">
+<ul class="bullet">
+<li>Minha conta</li>
+<li>Meus pedidos</li>
+<li>Política de privacidade</li>
+<li>Termos e condições</li>
+<li>Dúvidas</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="row">Formas de pagamento: <img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> <img src="{{media url="wysiwyg/card_master.png"}}" alt=""> <img src="{{media url="wysiwyg/card_america_1.png"}}" alt=""> <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> <img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></div>
+</div>
 </div>
 <style>
    div.footer2 {
