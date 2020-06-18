@@ -329,70 +329,69 @@
       <title><![CDATA[Slide Home2]]></title>
       <identifier><![CDATA[slide-home]]></identifier>
       <content><![CDATA[<div class="slider-primary">
-   <div class="slider-secondary">
-      <div class="slider-primary">
-         <div class="slider-secondary">
-            <div class="slide-home alo-magicslider">{{widget type="Magiccart\Magicslider\Block\Widget\Slider" identifier="slide2" class="home-slider" template="magicslider.phtml"}}</div>
-         </div>
-      </div>
-   </div>
+<div class="slider-secondary">
+<div class="slider-primary">
+<div class="slider-secondary">
+<div class="slide-home alo-magicslider">{{widget type="Magiccart\Magicslider\Block\Widget\Slider" identifier="slide2" class="home-slider" template="magicslider.phtml"}}</div>
+</div>
+</div>
+</div>
 </div>
 <div class="slider-primary">
-   <div class="slider-secondary">
-      <!-- Block service -->
-      <div class="service">
-         <div class="container box2">
-            <div style="width: 75%; margin: auto;">
-               <div class="row">
-                  <div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
-                     <div class="service-item">
-                        <div class="row">
-                           <div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
-                           <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
-                              <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">QUALIDADE</span> <br><span style="font-size: 15px;">os melhores produtos</span></div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
-                     <div class="service-item">
-                        <div class="row">
-                           <div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
-                           <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
-                              <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">CARTÃO ou SEEDS</span> <br><span style="font-size: 15px;">escolha a forma de pagar</span></div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
-                     <div class="service-item">
-                        <div class="row">
-                           <div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
-                           <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
-                              <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">100% SEGURO</span> <br><span style="font-size: 15px;">ambiente protegido</span></div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
+<div class="slider-secondary"><!-- Block service -->
+<div class="service">
+<div class="container box2">
+<div style="width: 75%; margin: auto;">
+<div class="row">
+<div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
+<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">QUALIDADE</span> <br><span style="font-size: 15px;">os melhores produtos</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
+<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">CARTÃO ou SEEDS</span> <br><span style="font-size: 15px;">escolha a forma de pagar</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
+<div class="service-item">
+<div class="row">
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
+<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">100% SEGURO</span> <br><span style="font-size: 15px;">ambiente protegido</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="box container-fluid p-0">
 <div style="width: 75%; margin: auto;">
-   <div class="row">
-      <div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: left;">
-         <div class="service-item"><img src="{{media url="wysiwyg/banners_sementes.png"}}" alt="" width="370px" height="190px"></div>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
-         <div class="service-item"><img src="{{media url="wysiwyg/banners_pet.png"}}" alt="" width="370" height="190"></div>
-      </div>
-      <div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: right;">
-         <div class="service-item"><img src="{{media url="wysiwyg/banners_maquinas.png"}}" alt="" width="370" height="190"></div>
-      </div>
-   </div>
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: left;">
+<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_sementes.png"}}" alt="" width="370px" height="190px"></div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
+<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_pet.png"}}" alt="" width="370" height="190"></div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: right;">
+<div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_maquinas.png"}}" alt="" width="370" height="190"></div>
+</div>
+</div>
 </div>
 </div>
 <style>
@@ -423,7 +422,7 @@
    height: auto;
    background: #F8F8F8;
    text-align: center;
-   padding-top: 5%;
+
    }
    div.box2 {
    width: 100%;
