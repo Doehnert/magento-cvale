@@ -2,6 +2,233 @@
 <root>
   <page>
     <item>
+      <title><![CDATA[Market Demo1]]></title>
+      <page_layout><![CDATA[1column]]></page_layout>
+      <identifier><![CDATA[demo1]]></identifier>
+      <content_heading><![CDATA[]]></content_heading>
+      <content><![CDATA[<div class="row banner-top banner-slogan">
+<div class="col-sm-4 col-banner">
+<div class="addon-box">
+<div class="banner-ads banner-ads1">
+<div class="banner-boder-zoom"><a href="#"><img src="{{media url="wysiwyg/alothemes/static/demo1/1a.jpg"}}" alt="" /></a></div>
+<div class="caption-ads caption-ads1">
+<div class="caption1">Patented<br />Impact-Ready Cases</div>
+<div class="caption2">Check our app portfolio</div>
+<div class="caption-btn"><a class="shop-now shop-now-btn portfolio-btn" href="#">Go to Portfolio</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 col-banner">
+<div class="addon-box">
+<div class="banner-ads banner-ads2">
+<div class="banner-boder-zoom"><a href="#"><img src="{{media url="wysiwyg/alothemes/static/demo1/1b.jpg"}}" alt="" /></a></div>
+<div class="caption-ads caption-ads2">
+<div class="caption1">Smartphone</div>
+<div class="caption2">Up to 25% Off</div>
+<div class="caption-btn"><a class="shop-now shop-now-btn" href="#">Shop now</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 col-banner">
+<div class="addon-box">
+<div class="banner-ads banner-ads3">
+<div class="banner-boder-zoom"><a href="#"><img src="{{media url="wysiwyg/alothemes/static/demo1/1c.jpg"}}" alt="" /></a></div>
+<div class="caption-ads caption-ads3">
+<div class="caption1">Camera<br />Security<br />HG2.06</div>
+<div class="caption-btn"><a class="shop-now" href="#">Shop now</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Block Hot categories -->
+<div class="hotcat-section">
+<div class="content-banner featured-category home-slider-category clearfix">
+<h3 class="title item"><span>Hot Categories this Week</span></h3>
+	<div class="home-slider" data-slides-to-show="5" data-slides-to-scroll="1" data-padding="5" data-fade="false" data-dots="false" data-arrows="true" data-easing="linear" data-autoplay="false" 
+	data-responsive='[{"breakpoint": "1201", "settings": {"slidesToShow": "4"}}, {"breakpoint": "1200", "settings": {"slidesToShow": "4"}}, {"breakpoint": "992", "settings": {"slidesToShow": "3"}}, {"breakpoint": "768", "settings": {"slidesToShow": "2"}}, {"breakpoint": "576", "settings": {"slidesToShow": "2"}}, {"breakpoint": "481", "settings": {"slidesToShow": "1"}}, {"breakpoint": "361", "settings": {"slidesToShow": "1"}}, {"breakpoint": "1", "settings": {"slidesToShow": "1"}}]'
+	 >
+<div class="item item-category1">
+<div class="imgslide"><a class="alinkslide" href="#"><img class="u-photo img-responsive" src="{{media url="wysiwyg/alothemes/static/demo1/hot-cat1.jpg"}}" alt="banner" /></a></div>
+<div class="figcaption categories-inner">
+<div class="cate-name-wrap">
+<p class="cate-name">Video Game &amp; Consoles</p>
+</div>
+<ul>
+<li><a href="#">Xbox 360</a></li>
+<li><a href="#">Action Games</a></li>
+<li><a href="#">Racing Games</a></li>
+<li><a href="#">Playstation Console</a></li>
+</ul>
+<div class="action"><a class="view-categoris" href="#">View all</a></div>
+</div>
+</div>
+<div class="item item-category2">
+<div class="imgslide"><a class="alinkslide" href="#"><img class="u-photo img-responsive" src="{{media url="wysiwyg/alothemes/static/demo1/hot-cat2.jpg"}}" alt="banner" /></a></div>
+<div class="figcaption categories-inner">
+<div class="cate-name-wrap">
+<p class="cate-name">Smartphone &amp; Tablet</p>
+</div>
+<ul>
+<li><a href="#">Accessories</a></li>
+<li><a href="#">Chargers</a></li>
+<li><a href="#">Powerbanks</a></li>
+<li><a href="#">Smartphones</a></li>
+</ul>
+<div class="action"><a class="view-categoris" href="#">View all</a></div>
+</div>
+</div>
+<div class="item item-category3">
+<div class="imgslide"><a class="alinkslide" href="#"><img class="u-photo img-responsive" src="{{media url="wysiwyg/alothemes/static/demo1/hot-cat3.jpg"}}" alt="banner" /></a></div>
+<div class="figcaption categories-inner">
+<div class="cate-name-wrap">
+<p class="cate-name">Camera &amp; Photography</p>
+</div>
+<ul>
+<li><a href="#">Camera 360</a></li>
+<li><a href="#">HD LED TVs</a></li>
+<li><a href="#">Accessories</a></li>
+<li><a href="#">All Cameras</a></li>
+</ul>
+<div class="action"><a class="view-categoris" href="#">View all</a></div>
+</div>
+</div>
+<div class="item item-category4">
+<div class="imgslide"><a class="alinkslide" href="#"><img class="u-photo img-responsive" src="{{media url="wysiwyg/alothemes/static/demo1/hot-cat4.jpg"}}" alt="banner" /></a></div>
+<div class="figcaption categories-inner">
+<div class="cate-name-wrap">
+<p class="cate-name">Laptop &amp; Computer</p>
+</div>
+<ul>
+<li><a href="#">Accessories</a></li>
+<li><a href="#">Computer Monitors</a></li>
+<li><a href="#">Computers</a></li>
+<li><a href="#">Desktop Computers</a></li>
+</ul>
+<div class="action"><a class="view-categoris" href="#">View all</a></div>
+</div>
+</div>
+<div class="item item-category5">
+<div class="imgslide"><a class="alinkslide" href="#"><img class="u-photo img-responsive" src="{{media url="wysiwyg/alothemes/static/demo1/hot-cat5.jpg"}}" alt="banner" /></a></div>
+<div class="figcaption categories-inner">
+<div class="cate-name-wrap">
+<p class="cate-name">Audio &amp; Television</p>
+</div>
+<ul>
+<li><a href="#">Chargers</a></li>
+<li><a href="#">Headphone Accessories</a></li>
+<li><a href="#">Headphone Cases</a></li>
+<li><a href="#">Headphones</a></li>
+</ul>
+<div class="action"><a class="view-categoris" href="#">View all</a></div>
+</div>
+</div>
+<div class="item item-category6">
+<div class="imgslide"><a class="alinkslide" href="#"><img class="u-photo img-responsive" src="{{media url="wysiwyg/alothemes/static/demo1/hot-cat3.jpg"}}" alt="banner" /></a></div>
+<div class="figcaption categories-inner">
+<div class="cate-name-wrap">
+<p class="cate-name">Camera &amp; Photography</p>
+</div>
+<ul>
+<li><a href="#">Camera 360</a></li>
+<li><a href="#">HD LED TVs</a></li>
+<li><a href="#">Accessories</a></li>
+<li><a href="#">All Cameras</a></li>
+</ul>
+<div class="action"><a class="view-categoris" href="#">View all</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption-primary">
+<p><span>Sale.</span> Save up to 50% Online and in store. <a class="deals-now" href="#">Shop all deals Now</a></p>
+</div>
+<div class="box-products box-products-one deal-the-day">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category_deal.phtml" identifier="deal-of-the-days"}}</div>
+<!-- Block Banner -->
+<div class="row banner-middle banner-slogan">
+<div class="col-sm-6 col-banner">
+<div class="addon-box">
+<div class="banner-ads banner-ads4">
+<div class="banner-boder-zoom"><a href="#"><img src="{{media url="wysiwyg/alothemes/static/demo1/1d.jpg"}}" alt="" /></a></div>
+<div class="caption-ads caption-ads4">
+<div class="caption1">Mais Vendidos on this week</div>
+<div class="caption2">Camera HD</div>
+<div class="caption3">Get up to 50% OFf</div>
+<div class="caption-btn"><a class="shop-now shop-now-btn" href="#">Shop now</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-banner">
+<div class="addon-box">
+<div class="banner-ads banner-ads5">
+<div class="banner-boder-zoom"><a href="#"><img src="{{media url="wysiwyg/alothemes/static/demo1/1e.jpg"}}" alt="" /></a></div>
+<div class="caption-ads caption-ads5">
+<div class="caption1">Bluetooth Smartwatch</div>
+<div class="caption2"><span class="primary">only At </span><span class="secondary">Ds. 608/</span></div>
+<div class="caption-btn"><a class="shop-now shop-now-btn" href="#">Shop now</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="box-products box-products-two">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="smartphone"}}</div>
+<div class="box-products box-products-three">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="laptop_computer"}}</div>
+<!-- Block Banner -->
+<div class="row banner-bottom banner-slogan">
+<div class="col-sm-6 col-banner">
+<div class="addon-box">
+<div class="banner-ads banner-ads6">
+<div class="banner-boder-zoom"><a href="#"><img src="{{media url="wysiwyg/alothemes/static/demo1/1g.jpg"}}" alt="" /></a></div>
+<div class="caption-ads caption-ads6">
+<div class="caption1">LAptop</div>
+<div class="caption2">Get up to 50% OFf</div>
+<div class="caption-btn"><a class="shop-now shop-now-btn" href="#">Shop now</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-banner">
+<div class="addon-box">
+<div class="banner-ads banner-ads7">
+<div class="banner-boder-zoom"><a href="#"><img src="{{media url="wysiwyg/alothemes/static/demo1/1h.jpg"}}" alt="" /></a></div>
+<div class="caption-ads caption-ads7">
+<div class="caption1">UpTo</div>
+<div class="caption2">40 %</div>
+<div class="caption3">Off</div>
+<div class="caption4">largest selling<br />Electronics</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+      <layout_update_xml><![CDATA[<!--
+    <referenceContainer name="right">
+        <action method="unsetChild"><argument name="alias" xsi:type="string">right.reports.product.viewed</argument></action>
+        <action method="unsetChild"><argument name="alias" xsi:type="string">right.reports.product.compared</argument></action>
+    </referenceContainer>-->
+<!-- Slide showcase-->
+<referenceContainer name="slide.showcase">
+			<block class="Magento\Cms\Block\Block" name="slide">
+				<arguments>
+					<argument name="block_id" xsi:type="string">slide-home</argument>
+				</arguments>
+			</block>
+</referenceContainer>
+<!-- alo sectionsbottom-->
+<referenceContainer name="alo.sectionsbottom">
+			    <block class="Magento\Cms\Block\Block" name="block_content_bottom">
+                    <arguments>
+                        <argument name="block_id" xsi:type="string">block_content_bottom</argument>
+                    </arguments>
+                </block>
+</referenceContainer>]]></layout_update_xml>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
       <title><![CDATA[Home page]]></title>
       <page_layout><![CDATA[1column]]></page_layout>
       <identifier><![CDATA[home]]></identifier>
@@ -182,113 +409,23 @@
       <page_layout><![CDATA[1column]]></page_layout>
       <identifier><![CDATA[demo2]]></identifier>
       <content_heading><![CDATA[]]></content_heading>
-      <content><![CDATA[<div class="slider-primary">
-<div class="slider-secondary">
-<div class="slider-primary">
-<div class="slider-secondary">
-<div class="slide-home alo-magicslider">{{widget type="Magiccart\Magicslider\Block\Widget\Slider" identifier="slide2" class="home-slider" template="magicslider.phtml"}}</div>
-</div>
-</div>
-<!-- Block service -->
-<div class="service">
-<div class="container box2">
-<div class="row">
-<div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
-<div class="service-item">
-<div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
-<div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%">
-<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">QUALIDADE</span> <br><span style="font-size: 15px;">os melhores produtos</span></div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
-<div class="service-item">
-<div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
-<div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%">
-<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">CARTÃO ou SEEDS</span> <br><span style="font-size: 15px;">escolha a forma de pagar</span></div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
-<div class="service-item">
-<div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
-<div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%">
-<div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">100% SEGURO</span> <br><span style="font-size: 15px;">ambiente protegido</span></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="box container-fluid p-0">
-<div class="row">
-<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: left;">
-<div class="service-item"><img src="{{media url="wysiwyg/banners_sementes.png"}}" alt="" width="370px" height="190px"></div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
-<div class="service-item"><img src="{{media url="wysiwyg/banners_pet.png"}}" alt="" width="370" height="190"></div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: right;">
-<div class="service-item"><img src="{{media url="wysiwyg/banners_maquinas.png"}}" alt="" width="370" height="190"></div>
-</div>
-</div>
-</div>
-<div class="caption-primary"><span style="font-size: 25px; color: white;"><strong>PROMOÇÃO</strong> | Economize até 15%, confira a lista dos produtos!</span></div>
+      <content><![CDATA[<div class="caption-primary"><span style="font-size: 25px; color: white;"><strong>PROMOÇÃO</strong> | Economize até 15%, confira a lista dos produtos!</span></div>
 <div class="row main colum2">
-<div class="col-md-9 col-sm-9 col-xs-12 part1">
-<div class="box-products box-products-one deal-the-day">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" template="product_deal.phtml" identifier="deals-of-the-day"}}</div>
-<div class="box-products-four">
-<div class="box-products">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category-multi-grid.phtml" identifier="hot_new_arrivals"}}</div>
-</div>
-</div>
-<div class="col-md-3 col-sm-3 col-xs-12 part2">
-<div class="custom-product vertical">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="best-seller-demo2" template="productcustom.phtml"}}</div>
-<div class="custom-product custom-product2">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="random_products" template="productcustom.phtml"}}</div>
-</div>
+   <div class="col-md-9 col-sm-9 col-xs-12 part1">
+      <div class="box-products box-products-one deal-the-day">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" template="product_deal.phtml" identifier="deals-of-the-day"}}</div>
+      <div class="box-products-four">
+         <div class="box-products">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category-multi-grid.phtml" identifier="hot_new_arrivals"}}</div>
+      </div>
+   </div>
+   <div class="col-md-3 col-sm-3 col-xs-12 part2">
+      <div class="custom-product vertical">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="best-seller-demo2" template="productcustom.phtml"}}</div>
+      <div class="custom-product custom-product2">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="random_products" template="productcustom.phtml"}}</div>
+   </div>
 </div>
 <div class="box-products box-products-five">
-<div class="container">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="best_rated_sellers"}}</div>
-</div>
-<div class="box3 container-fluid p-0">
-<div class="row">
-<div class="col-lg-2 col-md-2  col-xs-2">
-<h2>PARCEIROS</h2>
-</div>
-<div class="col-lg-2 col-md-2  col-xs-2">
-<h3>&nbsp;</h3>
-</div>
-</div>
-<div class="row">
-<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_adama.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_bayer.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_novartis.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_syngenta.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_fmc.png"}}" alt=""></div>
-<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_cvale.png"}}" alt=""></div>
-</div>
+   <div class="container">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="best_rated_sellers"}}</div>
 </div>
 <style>
-   div.box3 {
-   width: 100%;
-   height: auto;
-   background-color: #F8F8F8;
-   padding-left: 5%;
-   padding-right: 5%;
-   padding-bottom: 5%;
-   text-align: center;
-   }
-   div.box3 h2 {
-   color: #21409A;
-   font-weight: bold;
-   }
    div.caption-primary {
    background-color: blue !important;
    max-width: 100%;

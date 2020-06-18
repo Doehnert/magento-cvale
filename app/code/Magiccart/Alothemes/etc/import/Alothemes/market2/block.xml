@@ -2,6 +2,82 @@
 <root>
   <block>
     <item>
+      <title><![CDATA[header-offer]]></title>
+      <identifier><![CDATA[header-offer]]></identifier>
+      <content><![CDATA[<!-- header-offer -->
+<div id="header-offer" class="top-banner">
+<div class="bg-overlay"><span class="hidden">overlay</span></div>
+<div class="container-offer">
+<div class="promotion-offer">
+<h2>Sport Headphone Equipment</h2>
+<h3 class="des1">Protect her inevitable but unfortunate collision happened to himself </h3>
+<a class="des2" href="#">View now</a> <span class="header-offer-close"><i class="fa fa-times"><span class="hidden">header-offer-close</span></i></span></div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Footer Bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="container">
+	<div class="footer">
+		<div class="trademark-help">
+			<p>Help improve your experience on SuperMarket, <span>join our Customer Experience Improvement Program now</span>. Plus, <span>tell us what you think of this page !</span></p>
+		</div>
+		<div class="payment-method">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="payment-text">
+						<span>We Using Safe Payments:</span>	
+					</div>
+					<div class="payment-img">
+						<a href="#"><img src="{{media url="wysiwyg/alothemes/static/demo1/payment-icon.jpg"}}" alt="" /></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-menu-box">
+			<div class="row">
+				<div class="col-sm-12">
+					<ul class="footer-menu-list">
+						<li><a href="#">Promotions</a></li>
+						<li><a href="#">My Orders</a></li>
+						<li><a href="#">Help</a></li>
+						<li><a href="#">Site Map</a></li>
+						<li><a href="#">Customer Service</a></li>
+						<li><a href="#">Most Populars</a></li>
+						<li><a href="#">Mais Vendidos</a></li>
+						<li><a href="#">New Arrivals</a></li>
+						<li><a href="#">Special Products </a></li>
+						<li><a href="#">Manufacturers</a></li>
+						<li><a href="#">Our Stores</a></li>
+						<li><a href="#">Shipping</a></li>
+						<li><a href="#">Blog</a></li>
+					</ul>
+				</div>
+				<div class="col-sm-12">
+					<ul class="footer-menu-list">
+						<li><a href="#">Payments</a></li>
+						<li><a href="#">Payments</a></li>
+						<li><a href="#">Refunds Terms & Conditions</a></li>
+						<li><a href="#">Policy</a></li>
+						<li><a href="#">Policy</a></li>
+						<li><a href="#">Shipping</a></li>
+						<li><a href="#">Payments</a></li>
+						<li><a href="#">Returns</a></li>
+						<li><a href="#">Refunds</a></li>
+						<li><a href="#">Warrantee</a></li>
+						<li><a href="#">FAQ</a></li>
+						<li><a href="#">Contact</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[0]]></is_active>
+    </item>
+    <item>
       <title><![CDATA[block_map_contacts]]></title>
       <identifier><![CDATA[block_map_contact]]></identifier>
       <content><![CDATA[<div class="google-map"><iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.8277911385558!2d-0.13108129999999998!3d51.51637529999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b2d183f5ea3%3A0x8e1c5b00f1b16579!2zMTIgT3hmb3JkIFN0LCBTb2hvLCBMb25kb24gVzFELCBWxrDGoW5nIFF14buRYyBBbmg!5e0!3m2!1svi!2s!4v1434261501432" width="570" height="325"></iframe>
@@ -252,7 +328,128 @@
     <item>
       <title><![CDATA[Slide Home2]]></title>
       <identifier><![CDATA[slide-home]]></identifier>
-      <content><![CDATA[]]></content>
+      <content><![CDATA[<div class="slider-primary">
+   <div class="slider-secondary">
+      <div class="slider-primary">
+         <div class="slider-secondary">
+            <div class="slide-home alo-magicslider">{{widget type="Magiccart\Magicslider\Block\Widget\Slider" identifier="slide2" class="home-slider" template="magicslider.phtml"}}</div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="slider-primary">
+   <div class="slider-secondary">
+      <!-- Block service -->
+      <div class="service">
+         <div class="container box2">
+            <div style="width: 75%; margin: auto;">
+               <div class="row">
+                  <div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
+                     <div class="service-item">
+                        <div class="row">
+                           <div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
+                           <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
+                              <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">QUALIDADE</span> <br><span style="font-size: 15px;">os melhores produtos</span></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
+                     <div class="service-item">
+                        <div class="row">
+                           <div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
+                           <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
+                              <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">CARTÃO ou SEEDS</span> <br><span style="font-size: 15px;">escolha a forma de pagar</span></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
+                     <div class="service-item">
+                        <div class="row">
+                           <div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
+                           <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
+                              <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">100% SEGURO</span> <br><span style="font-size: 15px;">ambiente protegido</span></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="box container-fluid p-0">
+<div style="width: 75%; margin: auto;">
+   <div class="row">
+      <div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: left;">
+         <div class="service-item"><img src="{{media url="wysiwyg/banners_sementes.png"}}" alt="" width="370px" height="190px"></div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service">
+         <div class="service-item"><img src="{{media url="wysiwyg/banners_pet.png"}}" alt="" width="370" height="190"></div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: right;">
+         <div class="service-item"><img src="{{media url="wysiwyg/banners_maquinas.png"}}" alt="" width="370" height="190"></div>
+      </div>
+   </div>
+</div>
+</div>
+<style>
+   div.box3 {
+   width: 100%;
+   height: auto;
+   background-color: #F8F8F8;
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-bottom: 5%;
+   text-align: center;
+   }
+   div.box3 h2 {
+   color: #21409A;
+   font-weight: bold;
+   }
+   div.caption-primary {
+   background-color: blue !important;
+   max-width: 100%;
+   height: auto;
+   padding: 2% !important;
+   }
+   div.caption-primary h2 {
+   color: white;
+   }
+   div.box {
+   width: 100%;
+   height: auto;
+   background: #F8F8F8;
+   text-align: center;
+   padding-top: 5%;
+   }
+   div.box2 {
+   width: 100%;
+   background: #EBEBEB;
+   text-align: center;
+   padding-top: 29px;
+   color: #21409A;
+   }
+   div.box2 h3 {
+   color: #21409A;
+   font-weight: bold;
+   }
+   div.caption-primary {
+   background: url("{{media url="wysiwyg/img_promocao.png"}}");
+   height: auto;
+   width: 100%;
+   padding: 5%;
+   }
+   div.caption-primary h2 {
+   color: white;
+   }
+   .service {
+   padding-top: 0px !important;
+   padding-bottom: 0px !important;
+   }
+</style>]]></content>
       <is_active><![CDATA[1]]></is_active>
     </item>
     <item>
@@ -264,57 +461,78 @@
     <item>
       <title><![CDATA[Block Footer Top]]></title>
       <identifier><![CDATA[block_footer_top]]></identifier>
-      <content><![CDATA[<div class="footer2 container-fluid p-0">
-<div class="footer">
-<div class="row">
-<div class="col-lg-4 col-md-4  col-xs-12">
-<div class="collapsible mobile-collapsible">
-<div class="block1 block-content-statick"><img src="{{media url="wysiwyg/logo_rodape.png"}}" alt="" width="114" height="114"><br>
-<p><em class="fa fa-map-signs" aria-hidden="true">&nbsp;&nbsp;</em><strong>Endereço: </strong>&nbsp;Av. Independência, 2347 Centro, Palotina, Paraná</p>
-
-<p><em class="fa fa-phone-square" aria-hidden="true">&nbsp;&nbsp;</em><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
-
-<p><em class="fa fa-envelope" aria-hidden="true">&nbsp;&nbsp;</em><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
+      <content><![CDATA[<div class="box3 container-fluid p-0">
+<div style="width: 75%; margin: auto">
+   <div class="row">
+      <div class="col-lg-2 col-md-2  col-xs-2">
+         <h2>PARCEIROS</h2>
+      </div>
+      <div class="col-lg-2 col-md-2  col-xs-2">
+         <h3>&nbsp;</h3>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_adama.png"}}" alt=""></div>
+      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_bayer.png"}}" alt=""></div>
+      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_novartis.png"}}" alt=""></div>
+      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_syngenta.png"}}" alt=""></div>
+      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_fmc.png"}}" alt=""></div>
+      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_cvale.png"}}" alt=""></div>
+   </div>
 </div>
 </div>
-</div>
-<div class="col-lg-5 col-md-5 col-xs-12">
-<div class="collapsible mobile-collapsible"><br><br><br><br>
-<h3 class="block-title heading">C.Vale</h3>
-<p>A C.Vale é uma cooperativa agroindustrial com atuação no Paraná, Santa Catarina, Mato Grosso, Mato Grosso do Sul, Rio Grande do Sul e Paraguai. Possui 151 unidades de negócios, mais de 22.000 associados e mais 10.600 funcionários.</p>
-<p><button class="button primary action">Conheça mais</button></p>
-</div>
-</div>
-<div class="col-lg-3 col-md-3 col-xs-12">
-<div class="collapsible mobile-collapsible"><br><br><br><br>
-<h3 class="block-title heading">Atendimento</h3>
-<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
-<div class="block-content block-content-statick toggle-content">
-<ul class="bullet">
-<li>Minha conta</li>
-<li>Meus pedidos</li>
-<li>Política de privacidade</li>
-<li>Termos e condições</li>
-<li>Dúvidas</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="row">Formas de pagamento: &nbsp;<img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_master.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_america_1.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></div>
-</div>
+<div class="footer2 container-fluid p-0">
+   <div class="footer">
+      <div class="row">
+         <div class="col-lg-4 col-md-4  col-xs-12">
+            <div class="collapsible mobile-collapsible">
+               <div class="block1 block-content-statick">
+                  <img src="{{media url="wysiwyg/logo_rodape.png"}}" alt="" width="114" height="114"><br>
+                  <p><em class="fa fa-map-signs" aria-hidden="true">&nbsp;&nbsp;</em><strong>Endereço: </strong>&nbsp;Av. Independência, 2347 Centro, Palotina, Paraná</p>
+                  <p><em class="fa fa-phone-square" aria-hidden="true">&nbsp;&nbsp;</em><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
+                  <p><em class="fa fa-envelope" aria-hidden="true">&nbsp;&nbsp;</em><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-5 col-md-5 col-xs-12">
+            <div class="collapsible mobile-collapsible">
+               <br><br><br><br>
+               <h3 class="block-title heading">C.Vale</h3>
+               <p>A C.Vale é uma cooperativa agroindustrial com atuação no Paraná, Santa Catarina, Mato Grosso, Mato Grosso do Sul, Rio Grande do Sul e Paraguai. Possui 151 unidades de negócios, mais de 22.000 associados e mais 10.600 funcionários.</p>
+               <p><button class="button primary action">Conheça mais</button></p>
+            </div>
+         </div>
+         <div class="col-lg-3 col-md-3 col-xs-12">
+            <div class="collapsible mobile-collapsible">
+               <br><br><br><br>
+               <h3 class="block-title heading">Atendimento</h3>
+               <span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+               <div class="block-content block-content-statick toggle-content">
+                  <ul class="bullet">
+                     <li>Minha conta</li>
+                     <li>Meus pedidos</li>
+                     <li>Política de privacidade</li>
+                     <li>Termos e condições</li>
+                     <li>Dúvidas</li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="row">Formas de pagamento: &nbsp;<img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_master.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_america_1.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></div>
+   </div>
 </div>
 <div class="copyright">©2020 C.Vale - Cooperativa Agroindustrial. Todos os direitos reservados.</div>
 <style>
    .page-footer .block-footer-top .footer {
-      padding-top: 25px !important;
+   padding-top: 25px !important;
    }
    div.copyright {
-    text-align: center;
-    height: 45px;
-    padding-top: 15px;
-    background-color: #2d4384;
-    color: white;
+   text-align: center;
+   height: 45px;
+   padding-top: 15px;
+   background-color: #2d4384;
+   color: white;
    }
    div.footer2 {
    color: white !important;
@@ -327,7 +545,20 @@
    height: auto;
    }
    div.footer{
-       padding-top: 25px;
+   padding-top: 25px;
+   }
+   div.box3 {
+   width: 100%;
+   height: auto;
+   background-color: #F8F8F8;
+   padding-left: 5%;
+   padding-right: 5%;
+   padding-bottom: 5%;
+   text-align: center;
+   }
+   div.box3 h2 {
+   color: #21409A;
+   font-weight: bold;
    }
 </style>]]></content>
       <is_active><![CDATA[1]]></is_active>
