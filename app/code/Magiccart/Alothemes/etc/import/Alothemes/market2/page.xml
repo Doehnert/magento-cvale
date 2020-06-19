@@ -411,19 +411,19 @@
       <content_heading><![CDATA[]]></content_heading>
       <content><![CDATA[<div class="caption-primary"><span style="font-size: 25px; color: white;"><strong>PROMOÇÃO</strong> | Economize até 15%, confira a lista dos produtos!</span></div>
 <div class="row main colum2">
-   <div class="col-md-9 col-sm-9 col-xs-12 part1">
-      <div class="box-products box-products-one deal-the-day">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" template="product_deal.phtml" identifier="deals-of-the-day"}}</div>
-      <div class="box-products-four">
-         <div class="box-products">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category-multi-grid.phtml" identifier="hot_new_arrivals"}}</div>
-      </div>
-   </div>
-   <div class="col-md-3 col-sm-3 col-xs-12 part2">
-      <div class="custom-product vertical">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="best-seller-demo2" template="productcustom.phtml"}}</div>
-      <div class="custom-product custom-product2">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="random_products" template="productcustom.phtml"}}</div>
-   </div>
+<div class="col-md-9 col-sm-9 col-xs-12 part1">
+<div class="box-products box-products-one deal-the-day">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" template="product_deal.phtml" identifier="deals-of-the-day"}}</div>
+<div class="box-products-four">
+<div class="box-products">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category-multi-grid.phtml" identifier="hot_new_arrivals"}}</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-3 col-xs-12 part2">
+<div class="custom-product vertical">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="best-seller-demo2" template="productcustom.phtml"}}</div>
+<div class="custom-product custom-product2">{{widget type="Magiccart\Magicproduct\Block\Widget\Product" identifier="random_products" template="productcustom.phtml"}}</div>
+</div>
 </div>
 <div class="box-products box-products-five">
-   <div class="container">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="best_rated_sellers"}}</div>
+<div class="container">{{widget type="Magiccart\Magicproduct\Block\Widget\Category" template="category.phtml" identifier="best_rated_sellers"}}</div>
 </div>
 <style>
    div.caption-primary {
@@ -435,24 +435,7 @@
    div.caption-primary h2 {
    color: white;
    }
-   div.box {
-   width: 100%;
-   height: auto;
-   background: #F8F8F8;
-   text-align: center;
-   padding-top: 5%;
-   }
-   div.box2 {
-   width: 100%;
-   background: #EBEBEB;
-   text-align: center;
-   padding-top: 29px;
-   color: #21409A;
-   }
-   div.box2 h3 {
-   color: #21409A;
-   font-weight: bold;
-   }
+
    div.caption-primary {
    background: url("{{media url="wysiwyg/img_promocao.png"}}");
    height: auto;

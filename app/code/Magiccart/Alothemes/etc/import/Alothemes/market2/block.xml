@@ -340,8 +340,8 @@
 <div class="slider-primary">
 <div class="slider-secondary"><!-- Block service -->
 <div class="service">
-<div class="container box2">
-<div style="width: 75%; margin: auto;">
+<div class="box2">
+<div class="container">
 <div class="row">
 <div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
 <div class="service-item">
@@ -379,8 +379,8 @@
 </div>
 </div>
 </div>
-<div class="box container-fluid p-0">
-<div style="width: 75%; margin: auto;">
+<div class="box">
+<div class="container">
 <div class="row">
 <div class="col-xs-12 col-sm-6 col-md-4 two-service primary-service" style="float: left;">
 <div class="service-item"><img class="img-responsive" src="{{media url="wysiwyg/banners_sementes.png"}}" alt="" width="370px" height="190px"></div>
@@ -422,7 +422,7 @@
    height: auto;
    background: #F8F8F8;
    text-align: center;
-
+   padding-top: 1%;
    }
    div.box2 {
    width: 100%;
