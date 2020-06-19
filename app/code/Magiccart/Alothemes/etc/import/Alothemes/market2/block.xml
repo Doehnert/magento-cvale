@@ -460,66 +460,63 @@
     <item>
       <title><![CDATA[Block Footer Top]]></title>
       <identifier><![CDATA[block_footer_top]]></identifier>
-      <content><![CDATA[<div class="box3 container-fluid p-0">
-<div style="width: 75%; margin: auto">
-   <div class="row">
-      <div class="col-lg-2 col-md-2  col-xs-2">
-         <h2>PARCEIROS</h2>
-      </div>
-      <div class="col-lg-2 col-md-2  col-xs-2">
-         <h3>&nbsp;</h3>
-      </div>
-   </div>
-   <div class="row">
-      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_adama.png"}}" alt=""></div>
-      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_bayer.png"}}" alt=""></div>
-      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_novartis.png"}}" alt=""></div>
-      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_syngenta.png"}}" alt=""></div>
-      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_fmc.png"}}" alt=""></div>
-      <div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_cvale.png"}}" alt=""></div>
-   </div>
+      <content><![CDATA[<div class="box3">
+<div class="container">
+<div class="row">
+<div class="col-lg-2 col-md-2  col-xs-2">
+<h2>PARCEIROS</h2>
+</div>
+<div class="col-lg-2 col-md-2  col-xs-2">
+<h3>&nbsp;</h3>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_adama.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_bayer.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_novartis.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_syngenta.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_fmc.png"}}" alt=""></div>
+<div class="col-lg-2 col-md-4  col-xs-6"><img src="{{media url="wysiwyg/logo_cvale.png"}}" alt=""></div>
+</div>
 </div>
 </div>
 <div class="footer2 container-fluid p-0">
-   <div class="footer">
-      <div class="row">
-         <div class="col-lg-4 col-md-4  col-xs-12">
-            <div class="collapsible mobile-collapsible">
-               <div class="block1 block-content-statick">
-                  <img src="{{media url="wysiwyg/logo_rodape.png"}}" alt="" width="114" height="114"><br>
-                  <p><em class="fa fa-map-signs" aria-hidden="true">&nbsp;&nbsp;</em><strong>Endereço: </strong>&nbsp;Av. Independência, 2347 Centro, Palotina, Paraná</p>
-                  <p><em class="fa fa-phone-square" aria-hidden="true">&nbsp;&nbsp;</em><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
-                  <p><em class="fa fa-envelope" aria-hidden="true">&nbsp;&nbsp;</em><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
-               </div>
-            </div>
-         </div>
-         <div class="col-lg-5 col-md-5 col-xs-12">
-            <div class="collapsible mobile-collapsible">
-               <br><br><br><br>
-               <h3 class="block-title heading">C.Vale</h3>
-               <p>A C.Vale é uma cooperativa agroindustrial com atuação no Paraná, Santa Catarina, Mato Grosso, Mato Grosso do Sul, Rio Grande do Sul e Paraguai. Possui 151 unidades de negócios, mais de 22.000 associados e mais 10.600 funcionários.</p>
-               <p><button class="button primary action">Conheça mais</button></p>
-            </div>
-         </div>
-         <div class="col-lg-3 col-md-3 col-xs-12">
-            <div class="collapsible mobile-collapsible">
-               <br><br><br><br>
-               <h3 class="block-title heading">Atendimento</h3>
-               <span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
-               <div class="block-content block-content-statick toggle-content">
-                  <ul class="bullet">
-                     <li>Minha conta</li>
-                     <li>Meus pedidos</li>
-                     <li>Política de privacidade</li>
-                     <li>Termos e condições</li>
-                     <li>Dúvidas</li>
-                  </ul>
-               </div>
-            </div>
-         </div>
-      </div>
-      <div class="row">Formas de pagamento: &nbsp;<img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_master.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_america_1.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></div>
-   </div>
+<div class="footer">
+<div class="row">
+<div class="col-lg-4 col-md-4  col-xs-12">
+<div class="collapsible mobile-collapsible">
+<div class="block1 block-content-statick"><img src="{{media url="wysiwyg/logo_rodape.png"}}" alt="" width="114" height="114"><br>
+<p><em class="fa fa-map-signs" aria-hidden="true">&nbsp;&nbsp;</em><strong>Endereço: </strong>&nbsp;Av. Independência, 2347 Centro, Palotina, Paraná</p>
+<p><em class="fa fa-phone-square" aria-hidden="true">&nbsp;&nbsp;</em><span class="tit-name"> <strong>Telefone:</strong>&nbsp;55 (44) 3649-8181</span><span class="tit-contain"><br></span></p>
+<p><em class="fa fa-envelope" aria-hidden="true">&nbsp;&nbsp;</em><strong>E-mail</strong>:&nbsp;cvale@cvale.com.br</p>
+</div>
+</div>
+</div>
+<div class="col-lg-5 col-md-5 col-xs-12">
+<div class="collapsible mobile-collapsible"><br><br><br><br>
+<h3 class="block-title heading">C.Vale</h3>
+<p>A C.Vale é uma cooperativa agroindustrial com atuação no Paraná, Santa Catarina, Mato Grosso, Mato Grosso do Sul, Rio Grande do Sul e Paraguai. Possui 151 unidades de negócios, mais de 22.000 associados e mais 10.600 funcionários.</p>
+<p><button class="button primary action">Conheça mais</button></p>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-xs-12">
+<div class="collapsible mobile-collapsible"><br><br><br><br>
+<h3 class="block-title heading">Atendimento</h3>
+<span class="toggle-tab mobile" style="display: none;"><span class="hidden">hidden</span></span>
+<div class="block-content block-content-statick toggle-content">
+<ul class="bullet">
+<li>Minha conta</li>
+<li>Meus pedidos</li>
+<li>Política de privacidade</li>
+<li>Termos e condições</li>
+<li>Dúvidas</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="row">Formas de pagamento: &nbsp;<img src="{{media url="wysiwyg/card_visa.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_master.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_america_1.png"}}" alt="">&nbsp; <img src="{{media url="wysiwyg/card_paypal.png"}}" alt=""> &nbsp;<img src="{{media url="wysiwyg/card_seed.png"}}" alt=""></div>
+</div>
 </div>
 <div class="copyright">©2020 C.Vale - Cooperativa Agroindustrial. Todos os direitos reservados.</div>
 <style>
