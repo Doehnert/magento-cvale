@@ -346,7 +346,7 @@
 <div class="col-xs-4 col-sm-4 col-md-4 one-service primary-service">
 <div class="service-item">
 <div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="margin: auto; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_qualidade.png"}}" alt=""></div>
 <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
 <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">QUALIDADE</span> <br><span style="font-size: 15px;">os melhores produtos</span></div>
 </div>
@@ -356,7 +356,7 @@
 <div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
 <div class="service-item">
 <div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="margin: auto; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_cartao_seed.png"}}" alt=""></div>
 <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
 <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">CARTÃO ou SEEDS</span> <br><span style="font-size: 15px;">escolha a forma de pagar</span></div>
 </div>
@@ -366,7 +366,7 @@
 <div class="col-xs-4 col-sm-4 col-md-4 two-service primary-service">
 <div class="service-item">
 <div class="row">
-<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="float: right; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
+<div class="col-xs-6 col-sm-6 col-md-6"><img class="img-responsive" style="margin: auto; padding-bottom: 30px;" src="{{media url="wysiwyg/ico_seguranca.png"}}" alt=""></div>
 <div class="col-xs-6 col-sm-6 col-md-6" style="padding-top: 5%;">
 <div style="float: left; text-align: left; vertical-align: middle;"><span style="font-size: 18px; font-weight: bold;">100% SEGURO</span> <br><span style="font-size: 15px;">ambiente protegido</span></div>
 </div>
